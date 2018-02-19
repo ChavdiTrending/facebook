@@ -1,0 +1,7 @@
+{
+  "requested_url": " science http://feeds.feedburner.com/NDTV-Tech",
+  "fetched_at": "2018-02-18T22:21:58.595071",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' science http://feeds.feedburner.com/NDTV-Tech'",
+  "headers": null
+}

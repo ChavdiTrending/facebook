@@ -1,0 +1,7 @@
+{
+  "requested_url": " business http://www.livemint.com/rss/consumer",
+  "fetched_at": "2018-02-18T22:21:58.574818",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' business http://www.livemint.com/rss/consumer'",
+  "headers": null
+}

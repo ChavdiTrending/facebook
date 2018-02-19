@@ -1,0 +1,7 @@
+{
+  "requested_url": " politics http://www.nationaljournal.com/congressional-connection?rss=1",
+  "fetched_at": "2018-02-18T22:20:10.734753",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' politics http://www.nationaljournal.com/congressional-connection?rss=1'",
+  "headers": null
+}

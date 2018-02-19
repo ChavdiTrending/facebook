@@ -1,0 +1,24 @@
+{
+  "requested_url": "http://www.wired.com/category/underwire/feed/",
+  "fetched_at": "2018-02-18T22:20:46.608493",
+  "status_code": 404,
+  "response_text": "{\"message\":\"Not Found (/identifiers/lookup?itemFormat=embedded&uri=category%2Funderwire%2Flatest)\",\"statusCode\":404}",
+  "headers": {
+    "X-Timer": "S1518972647.275858,VS0,VE0",
+    "Content-Type": "application/json; charset=utf-8",
+    "Via": "1.1 varnish",
+    "Connection": "keep-alive",
+    "Strict-Transport-Security": "max-age=31536000; preload",
+    "X-Cache-Hits": "1",
+    "Content-Security-Policy": "default-src https: data: 'unsafe-inline' 'unsafe-eval'; child-src https: data: blob:; connect-src https: data: blob:; font-src https: data:; img-src https: blob: data:; media-src blob: data: https:; object-src https:; script-src https: data: blob: 'unsafe-inline' 'unsafe-eval'; style-src https: 'unsafe-inline'; block-all-mixed-content; upgrade-insecure-requests; report-uri https://capture.condenastdigital.com/csp/wired",
+    "X-Cache": "HIT",
+    "Age": "519",
+    "Cache-Control": "max-age=300, stale-while-revalidate=60, stale-if-error=86400",
+    "Access-Control-Allow-Origin": "*",
+    "Date": "Sun, 18 Feb 2018 16:50:47 GMT",
+    "X-Served-By": "cache-sin18022-SIN",
+    "Accept-Ranges": "bytes",
+    "Content-Length": "116"
+  },
+  "response_url": "https://www.wired.com/category/underwire/feed/"
+}

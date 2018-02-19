@@ -1,0 +1,7 @@
+{
+  "requested_url": " science http://www.business-standard.com/rss/technology-108.rss",
+  "fetched_at": "2018-02-18T22:21:58.600407",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' science http://www.business-standard.com/rss/technology-108.rss'",
+  "headers": null
+}

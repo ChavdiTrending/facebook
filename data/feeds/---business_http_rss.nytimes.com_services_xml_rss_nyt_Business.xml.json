@@ -1,0 +1,7 @@
+{
+  "requested_url": " business http://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
+  "fetched_at": "2018-02-18T22:20:10.770262",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' business http://rss.nytimes.com/services/xml/rss/nyt/Business.xml'",
+  "headers": null
+}

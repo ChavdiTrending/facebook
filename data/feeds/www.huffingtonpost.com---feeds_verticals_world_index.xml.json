@@ -1,0 +1,19 @@
+{
+  "requested_url": "http://www.huffingtonpost.com/feeds/verticals/world/index.xml",
+  "fetched_at": "2018-02-18T22:20:02.076730",
+  "status_code": 403,
+  "response_text": "<?xml version=\"1.0\" encoding=\"iso-8859-1\"?>\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\"\n         \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\n<html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"en\" lang=\"en\">\n\t<head>\n\t\t<title>403 - Forbidden</title>\n\t</head>\n\t<body>\n\t\t<h1>403 - Forbidden</h1>\n\t</body>\n</html>\n",
+  "headers": {
+    "Content-Security-Policy-Report-Only": "default-src 'self' data: https: blob:; script-src 'self' data: 'unsafe-inline' 'unsafe-eval' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: https:; font-src 'self' data: https:; worker-src * blob:; report-uri https://huffpost.report-uri.io/r/default/csp/reportOnly;",
+    "Cache-Control": "max-age=600",
+    "Server": "ECD (maa/AEA1)",
+    "Date": "Sun, 18 Feb 2018 16:50:02 GMT",
+    "Content-Type": "text/html",
+    "X-EC-Security-Audit": "403",
+    "Content-Length": "345",
+    "Strict-Transport-Security": "max-age=300;",
+    "Expires": "Sun, 18 Feb 2018 17:00:02 GMT",
+    "X-EC-Lua": "19365-geo"
+  },
+  "response_url": "https://www.huffingtonpost.com/feeds/verticals/world/index.xml"
+}

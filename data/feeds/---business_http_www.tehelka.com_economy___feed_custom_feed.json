@@ -1,0 +1,7 @@
+{
+  "requested_url": " business http://www.tehelka.com/economy/?feed=custom_feed",
+  "fetched_at": "2018-02-18T22:21:58.529495",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' business http://www.tehelka.com/economy/?feed=custom_feed'",
+  "headers": null
+}

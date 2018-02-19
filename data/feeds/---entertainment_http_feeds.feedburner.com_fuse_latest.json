@@ -1,0 +1,7 @@
+{
+  "requested_url": " entertainment http://feeds.feedburner.com/fuse/latest",
+  "fetched_at": "2018-02-18T22:20:30.074244",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' entertainment http://feeds.feedburner.com/fuse/latest'",
+  "headers": null
+}

@@ -1,0 +1,7 @@
+{
+  "requested_url": " science http://sify.com/rss2/news/article/category/science",
+  "fetched_at": "2018-02-18T22:21:58.596607",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' science http://sify.com/rss2/news/article/category/science'",
+  "headers": null
+}

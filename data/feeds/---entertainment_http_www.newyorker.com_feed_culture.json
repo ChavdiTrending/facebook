@@ -1,0 +1,7 @@
+{
+  "requested_url": " entertainment http://www.newyorker.com/feed/culture",
+  "fetched_at": "2018-02-18T22:20:30.067308",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' entertainment http://www.newyorker.com/feed/culture'",
+  "headers": null
+}

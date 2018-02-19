@@ -1,0 +1,7 @@
+{
+  "requested_url": " tech http://techrepublic.com.feedsportal.com/c/35463/f/670841/index.rss",
+  "fetched_at": "2018-02-18T22:20:30.014084",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' tech http://techrepublic.com.feedsportal.com/c/35463/f/670841/index.rss'",
+  "headers": null
+}

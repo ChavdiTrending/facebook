@@ -1,0 +1,7 @@
+{
+  "requested_url": " tech http://recode.net/feed/",
+  "fetched_at": "2018-02-18T22:20:30.053743",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' tech http://recode.net/feed/'",
+  "headers": null
+}

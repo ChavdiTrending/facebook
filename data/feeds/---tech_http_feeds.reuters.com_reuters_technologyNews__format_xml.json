@@ -1,0 +1,7 @@
+{
+  "requested_url": " tech http://feeds.reuters.com/reuters/technologyNews?format=xml",
+  "fetched_at": "2018-02-18T22:20:30.011636",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' tech http://feeds.reuters.com/reuters/technologyNews?format=xml'",
+  "headers": null
+}

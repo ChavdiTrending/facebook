@@ -1,0 +1,7 @@
+{
+  "requested_url": " entertainment http://www.buzzfeed.com/tvandmovies.xml",
+  "fetched_at": "2018-02-18T22:20:30.069086",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' entertainment http://www.buzzfeed.com/tvandmovies.xml'",
+  "headers": null
+}

@@ -1,0 +1,7 @@
+{
+  "requested_url": " business http://economictimes.indiatimes.com/rssfeedsdefault.cms",
+  "fetched_at": "2018-02-18T22:21:58.543953",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' business http://economictimes.indiatimes.com/rssfeedsdefault.cms'",
+  "headers": null
+}

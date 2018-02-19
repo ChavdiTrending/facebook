@@ -1,0 +1,7 @@
+{
+  "requested_url": " entertainment http://variety.com/feed/",
+  "fetched_at": "2018-02-18T22:20:30.058651",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' entertainment http://variety.com/feed/'",
+  "headers": null
+}

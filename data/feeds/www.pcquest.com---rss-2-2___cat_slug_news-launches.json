@@ -1,0 +1,17 @@
+{
+  "requested_url": "http://www.pcquest.com/rss-2-2/?cat_slug=news-launches",
+  "fetched_at": "2018-02-18T22:21:59.998118",
+  "status_code": 403,
+  "response_text": "<!DOCTYPE html>\n<html lang=\"en\" xmlns=\"http://www.w3.org/1999/xhtml\">\n<head>\n<link rel=\"stylesheet\" href=\"https://cdn.sucuri.net/sucuri-firewall-block.css\" />\n<section class=\"center clearfix\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\n<title>Sucuri WebSite Firewall - Access Denied</title>\n<link href=\"https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700\" rel=\"stylesheet\" type=\"text/css\">\n</head>\n<body>\n<div id=\"main-container\">\n<header class=\"app-header clearfix\">\n<div class=\"wrap\">\n<a href=\"https://www.sucuri.net/\" class=\"logo\"></a>\n<span class=\"logo-neartext\">Website Firewall</span>\n<a href=\"https://sucuri.net\" class=\"site-link\">Back to sucuri.net</a>\n</div>\n</header>\n\n<section class=\"app-content access-denied clearfix\"><div class=\"box center width-max-940\"><h1 class=\"brand-font font-size-xtra no-margin\"><i class=\"icon-circle-red\"></i>Access Denied - Sucuri Website Firewall</h1>\n<p class=\"medium-text code-snippet\">If you are the site owner (or you manage this site), please whitelist your IP or if you think this block is an error please <a href=\"https://support.sucuri.net\" class=\"color-green underline\">open a support ticket</a> and make sure to include the block details (displayed in the box below), so we can assist you in troubleshooting the issue. </p><h2>Block details:</h1>\n<table class=\"property-table overflow-break-all line-height-16\">\n<tr>\n<td>Your IP:</td>\n<td><span>116.75.6.30</span></td>\n</tr>\n<tr><td>URL:</td>\n<td><span>www.pcquest.com/rss-2-2/?cat_slug=news-launches</span></td>\n</tr>\n<tr>\n<td>Your Browser: </td>\n<td><span>python-requests/2.9.1</span></td>\n</tr>\n<tr><td>Block ID:</td>\n<td><span>BNP005</span></td>\n</tr>\n<tr>\n<td>Block reason:</td>\n<td><span>Bad bot access attempt.</span></td>\n</tr>\n<tr>\n<td>Time:</td>\n<td><span>Sun Feb 18 11:52:00 2018</span></td>\n</tr>\n<tr>\n<td>Server ID:</td>\n<td><span>13011</span></td></tr>\n</table>\n</div>\n</section>\n\n<footer>\n<span>&copy; 2017 Sucuri Inc. All rights reserved.</span>\n<span id=\"privacy-policy\"><a href=\"https://sucuri.net/privacy-policy\" target=\"_blank\" rel=\"nofollow noopener\">Privacy</a></span>\n</footer>\n</div>\n</body>\n</html>\n\n",
+  "headers": {
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Content-Type": "text/html",
+    "Server": "nginx",
+    "Date": "Sun, 18 Feb 2018 16:52:00 GMT",
+    "Vary": "Accept-Encoding",
+    "Content-Encoding": "gzip",
+    "X-Sucuri-ID": "13011"
+  },
+  "response_url": "http://www.pcquest.com/rss-2-2/?cat_slug=news-launches"
+}

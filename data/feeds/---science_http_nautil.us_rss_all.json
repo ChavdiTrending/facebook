@@ -1,0 +1,7 @@
+{
+  "requested_url": " science http://nautil.us/rss/all",
+  "fetched_at": "2018-02-18T22:20:29.909563",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' science http://nautil.us/rss/all'",
+  "headers": null
+}

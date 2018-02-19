@@ -1,0 +1,22 @@
+{
+  "requested_url": "http://www.thehindubusinessline.com/news/international/?service=rss",
+  "fetched_at": "2018-02-18T22:21:57.562722",
+  "status_code": 200,
+  "response_text": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<rss version=\"2.0\">\r\n    <channel>\r\n        <title>Business Line - World</title>\r\n        <link>https://www.thehindubusinessline.com/</link>\r\n        <description> RSS Feed</description>\r\n        <language>en-us</language>\r\n        <copyright>Copyright 2018 Business Line</copyright>\r\n        <item>\r\n            <title><![CDATA[ Plane crashes in Iran with over 50 aboard ]]></title>\r\n            <author><![CDATA[PTI]]></author>\r\n            <category><![CDATA[World]]></category>\r\n            <link>https://www.thehindubusinessline.com/news/world/plane-crashes-in-iran-with-over-50-aboard/article22789245.ece?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication</link>\r\n            <description><![CDATA[\r\n                <p>  An Iranian passenger plane today crashed into the country\u2019s Zagros mountains with more than 50 people on board, the head of the country\u2019s emergency services told local media. \u201cThis plane has cras\r\n            ]]></description>\r\n            <pubDate><![CDATA[Sun, 18 Feb 2018 13:51:34 +0530]]></pubDate>\r\n        </item>\r\n        <item>\r\n            <title><![CDATA[ Pakistan borrows USD 500 million from China ]]></title>\r\n            <author><![CDATA[PTI]]></author>\r\n            <category><![CDATA[World]]></category>\r\n            <link>https://www.thehindubusinessline.com/news/world/pakistan-borrows-usd-500-million-from-china/article22783065.ece?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication</link>\r\n            <description><![CDATA[\r\n                 China is Pakistan\u2019s the single largest lender \r\n            ]]></description>\r\n            <pubDate><![CDATA[Sat, 17 Feb 2018 14:13:49 +0530]]></pubDate>\r\n        </item>\r\n    </channel>\r\n</rss>",
+  "headers": {
+    "Content-Type": "application/rss+xml;charset=UTF-8",
+    "Last-Modified": "Sun, 18 Feb 2018 08:21:34 GMT",
+    "Content-Encoding": "gzip",
+    "Connection": "keep-alive",
+    "X-Cache-Hits": "0",
+    "Expires": "Sun, 18 Feb 2018 16:53:36 GMT",
+    "Vary": "Accept-Encoding",
+    "ETag": "\"161a80102b0\"",
+    "Cache-Control": "max-age=98",
+    "Date": "Sun, 18 Feb 2018 16:51:58 GMT",
+    "Accept-Ranges": "bytes",
+    "Content-Length": "689",
+    "X-Frame-Options": "SAMEORIGIN"
+  },
+  "response_url": "https://www.thehindubusinessline.com/news/world/feeder/default.rss"
+}

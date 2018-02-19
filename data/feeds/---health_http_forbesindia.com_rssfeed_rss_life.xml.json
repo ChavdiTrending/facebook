@@ -1,0 +1,7 @@
+{
+  "requested_url": " health http://forbesindia.com/rssfeed/rss_life.xml",
+  "fetched_at": "2018-02-18T22:21:58.591731",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' health http://forbesindia.com/rssfeed/rss_life.xml'",
+  "headers": null
+}

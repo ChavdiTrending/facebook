@@ -1,0 +1,7 @@
+{
+  "requested_url": " tech http://recode.net/category/mobile/feed/",
+  "fetched_at": "2018-02-18T22:20:29.986181",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' tech http://recode.net/category/mobile/feed/'",
+  "headers": null
+}

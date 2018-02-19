@@ -1,0 +1,25 @@
+{
+  "requested_url": "http://www.pcworld.com/column/game-on/index.rss",
+  "fetched_at": "2018-02-18T22:20:39.224978",
+  "status_code": 200,
+  "response_text": "\n\n\n\n<rss version=\"2.0\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:media=\"http://search.yahoo.com/mrss/\">\n\t<channel>\n\t\t<title>TechHive Game On</title>\n\t\t<link>https://www.techhive.com</link>\n\t\t<description>TechHive helps you find your tech sweet spot. We guide you to products you'll love and show you how to get the most out of them.</description>\n\t\t<language>en-us</language>\n\t\t<pubDate>Sun, 18 Feb 2018 06:25:43 -0800</pubDate>\n\t\t<lastBuildDate>Sun, 18 Feb 2018 06:25:43 -0800</lastBuildDate>\n\t\t\n\t\t\n\t\t\n\n\t\n\t\t\n\t\n\t\n\n\n\n\n\t</channel>\n</rss>",
+  "headers": {
+    "X-Timer": "S1518972641.419230,VS0,VE1",
+    "Server": "Apache-Coyote/1.1",
+    "Vary": "Accept-Encoding,Cookie",
+    "Via": "1.1 varnish, 1.1 varnish",
+    "Connection": "keep-alive",
+    "X-Cache-Hits": "1, 1",
+    "X-Cache": "HIT, HIT",
+    "Content-Type": "text/xml;charset=UTF-8",
+    "Age": "1528",
+    "X-Via-Fastly": "Verdad",
+    "Date": "Sun, 18 Feb 2018 16:50:41 GMT",
+    "X-Served-By": "cache-sjc3140-SJC, cache-ams4121-AMS",
+    "Accept-Ranges": "bytes",
+    "Content-Length": "337",
+    "Content-Encoding": "gzip",
+    "Fastly-Debug-Digest": "fa2bfa4dd6d0fb4a2bce315364900c75dd624952d37e850f0586808db374723c"
+  },
+  "response_url": "https://www.techhive.com/column/game-on/index.rss"
+}

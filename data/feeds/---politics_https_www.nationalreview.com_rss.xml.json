@@ -1,0 +1,7 @@
+{
+  "requested_url": " politics https://www.nationalreview.com/rss.xml",
+  "fetched_at": "2018-02-18T22:20:10.745312",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' politics https://www.nationalreview.com/rss.xml'",
+  "headers": null
+}

@@ -1,0 +1,23 @@
+{
+  "requested_url": "http://www.nhl.com/rss/news.xml",
+  "fetched_at": "2018-02-18T22:20:55.166573",
+  "status_code": 200,
+  "response_text": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?><rss xmlns:content=\"http://purl.org/rss/1.0/modules/content/\" version=\"2.0\"><channel><title>NEWS IN ENGLISH</title><link>http://www.nhl.com/rss</link><description>NEWS IN ENGLISH</description><copyright>NHL Enterprises, L.P. (c) 2018 NHL. All Rights Reserved</copyright><language>en_US</language><lastBuildDate>Sun, 18 Feb 2018 11:11:34 EST</lastBuildDate></channel></rss>",
+  "headers": {
+    "Content-Type": "text/xml",
+    "Server": "Apache",
+    "Cteonnt-Length": "427",
+    "X-Robots-Tag": "nofollow, noarchive",
+    "Last-Modified": "Sun, 18 Feb 2018 16:11:34 GMT",
+    "Content-Encoding": "gzip",
+    "Connection": "keep-alive",
+    "Vary": "Accept-Encoding",
+    "ETag": "\"1ab-5657ed4d9d4f2\"",
+    "Cache-Control": "private, max-age=26",
+    "Access-Control-Allow-Origin": "*",
+    "Date": "Sun, 18 Feb 2018 16:50:57 GMT",
+    "Accept-Ranges": "bytes",
+    "Content-Length": "303"
+  },
+  "response_url": "http://ice.nhl.com/rss/news.xml"
+}

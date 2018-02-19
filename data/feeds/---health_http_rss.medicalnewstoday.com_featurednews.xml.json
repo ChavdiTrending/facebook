@@ -1,0 +1,7 @@
+{
+  "requested_url": " health http://rss.medicalnewstoday.com/featurednews.xml",
+  "fetched_at": "2018-02-18T22:20:29.839981",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' health http://rss.medicalnewstoday.com/featurednews.xml'",
+  "headers": null
+}

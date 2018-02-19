@@ -1,0 +1,7 @@
+{
+  "requested_url": " tech http://feeds.abcnews.com/abcnews/technologyheadlines",
+  "fetched_at": "2018-02-18T22:20:30.002998",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' tech http://feeds.abcnews.com/abcnews/technologyheadlines'",
+  "headers": null
+}

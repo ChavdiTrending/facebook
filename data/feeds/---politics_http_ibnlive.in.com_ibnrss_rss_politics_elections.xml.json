@@ -1,0 +1,7 @@
+{
+  "requested_url": " politics http://ibnlive.in.com/ibnrss/rss/politics/elections.xml",
+  "fetched_at": "2018-02-18T22:21:58.453055",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' politics http://ibnlive.in.com/ibnrss/rss/politics/elections.xml'",
+  "headers": null
+}

@@ -1,0 +1,7 @@
+{
+  "requested_url": " science http://indianexpress.com/technology/feed/",
+  "fetched_at": "2018-02-18T22:21:58.609329",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' science http://indianexpress.com/technology/feed/'",
+  "headers": null
+}

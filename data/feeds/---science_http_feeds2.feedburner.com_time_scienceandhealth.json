@@ -1,0 +1,7 @@
+{
+  "requested_url": " science http://feeds2.feedburner.com/time/scienceandhealth",
+  "fetched_at": "2018-02-18T22:20:29.919683",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' science http://feeds2.feedburner.com/time/scienceandhealth'",
+  "headers": null
+}

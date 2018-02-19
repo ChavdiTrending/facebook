@@ -1,0 +1,7 @@
+{
+  "requested_url": " tech http://online.wsj.com/xml/rss/3_7455.xml",
+  "fetched_at": "2018-02-18T22:20:29.979872",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' tech http://online.wsj.com/xml/rss/3_7455.xml'",
+  "headers": null
+}

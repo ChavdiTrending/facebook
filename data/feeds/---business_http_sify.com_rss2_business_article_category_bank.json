@@ -1,0 +1,7 @@
+{
+  "requested_url": " business http://sify.com/rss2/business/article/category/bank",
+  "fetched_at": "2018-02-18T22:21:58.536801",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' business http://sify.com/rss2/business/article/category/bank'",
+  "headers": null
+}

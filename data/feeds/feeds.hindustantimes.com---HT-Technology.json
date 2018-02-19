@@ -1,0 +1,7 @@
+{
+  "requested_url": "http://feeds.hindustantimes.com/HT-Technology",
+  "fetched_at": "2018-02-18T22:22:02.417472",
+  "status_code": "ConnectionError",
+  "response_text": "HTTPConnectionPool(host='feeds.hindustantimes.com', port=80): Max retries exceeded with url: /HT-Technology (Caused by NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x7f35e47a1748>: Failed to establish a new connection: [Errno -2] Name or service not known',))",
+  "headers": null
+}

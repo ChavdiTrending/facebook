@@ -1,0 +1,7 @@
+{
+  "requested_url": " science http://www.nasa.gov/rss/dyn/breaking_news.rss",
+  "fetched_at": "2018-02-18T22:20:29.900413",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' science http://www.nasa.gov/rss/dyn/breaking_news.rss'",
+  "headers": null
+}

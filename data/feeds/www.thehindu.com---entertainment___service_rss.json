@@ -1,0 +1,23 @@
+{
+  "requested_url": "http://www.thehindu.com/entertainment/?service=rss",
+  "fetched_at": "2018-02-18T22:22:16.132667",
+  "status_code": 200,
+  "response_text": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<rss version=\"2.0\">\n<channel>\n<title>The Hindu - Entertainment</title>\n<link>http://www.thehindu.com/</link>\n<description>RSS feed</description>\n<language>en-us</language>\n<copyright>Copyright 2018 The Hindu</copyright>\n</channel>\n</rss>",
+  "headers": {
+    "Content-Type": "application/rss+xml;charset=UTF-8",
+    "Content-Encoding": "gzip",
+    "Connection": "keep-alive",
+    "X-Cache-Hits": "6",
+    "Expires": "Sun, 18 Feb 2018 16:52:16 GMT",
+    "Last-Modified": "Sun, 18 Feb 2018 16:47:14 GMT, Sat, 17 Feb 2018 15:18:11 GMT",
+    "ETag": "\"161a9cff650\"",
+    "Cache-Control": "private, max-age=0",
+    "Date": "Sun, 18 Feb 2018 16:52:16 GMT",
+    "Content-Language": "en-US",
+    "Vary": "Accept-Encoding",
+    "Accept-Ranges": "bytes",
+    "Content-Length": "208",
+    "X-Frame-Options": "ALLOW-FROM http://www.thehindu.com"
+  },
+  "response_url": "http://www.thehindu.com/entertainment/?service=rss"
+}

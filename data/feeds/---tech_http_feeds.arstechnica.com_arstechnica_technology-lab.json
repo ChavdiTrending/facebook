@@ -1,0 +1,7 @@
+{
+  "requested_url": " tech http://feeds.arstechnica.com/arstechnica/technology-lab",
+  "fetched_at": "2018-02-18T22:20:30.035757",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' tech http://feeds.arstechnica.com/arstechnica/technology-lab'",
+  "headers": null
+}

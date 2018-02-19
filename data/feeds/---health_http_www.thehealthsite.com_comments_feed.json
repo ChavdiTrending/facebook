@@ -1,0 +1,7 @@
+{
+  "requested_url": " health http://www.thehealthsite.com/comments/feed/",
+  "fetched_at": "2018-02-18T22:21:58.587915",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' health http://www.thehealthsite.com/comments/feed/'",
+  "headers": null
+}

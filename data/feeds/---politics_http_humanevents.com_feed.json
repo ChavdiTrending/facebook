@@ -1,0 +1,7 @@
+{
+  "requested_url": " politics http://humanevents.com/feed/",
+  "fetched_at": "2018-02-18T22:20:10.762872",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' politics http://humanevents.com/feed/'",
+  "headers": null
+}

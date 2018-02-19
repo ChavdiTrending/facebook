@@ -1,0 +1,19 @@
+{
+  "requested_url": "http://www.mensfitnessmagazine.com.au/topics/health-nutrition/feed/",
+  "fetched_at": "2018-02-18T22:35:22.630671",
+  "status_code": 200,
+  "response_text": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmlns:dc=\"http://purl.org/dc/elements/1.1/\"\n\txmlns:atom=\"http://www.w3.org/2005/Atom\"\n\txmlns:sy=\"http://purl.org/rss/1.0/modules/syndication/\"\n\t\n\t>\n<channel>\n\t<title>Comments on: </title>\n\t<atom:link href=\"https://www.mensfitnessmagazine.com.au/topics/health-nutrition/feed/\" rel=\"self\" type=\"application/rss+xml\" />\n\t<link></link>\n\t<description>Be your personal best</description>\n\t<lastBuildDate>Mon, 07 Aug 2017 06:28:02 +0000</lastBuildDate>\n\t<sy:updatePeriod>hourly</sy:updatePeriod>\n\t<sy:updateFrequency>1</sy:updateFrequency>\n\t<generator>https://wordpress.org/?v=4.9.4</generator>\n</channel>\n</rss>\n\r\n<!--\r\nPerformance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/\r\n\r\nContent Delivery Network via Amazon Web Services: CloudFront: d1f27oetszutm8.cloudfront.net\r\n\r\nServed from: www.mensfitnessmagazine.com.au @ 2018-02-19 03:05:27 by W3 Total Cache\r\n-->",
+  "headers": {
+    "Transfer-Encoding": "chunked",
+    "Keep-Alive": "timeout=5, max=100",
+    "ETag": "\"36fcc677b17eb65a3fb83471cb755777\"",
+    "Content-Type": "application/rss+xml; charset=UTF-8",
+    "Server": "Apache",
+    "Link": "<https://www.mensfitnessmagazine.com.au/wp-json/>; rel=\"https://api.w.org/\"",
+    "X-Robots-Tag": "noindex, follow",
+    "Last-Modified": "Mon, 07 Aug 2017 06:28:02 GMT",
+    "Connection": "Keep-Alive",
+    "Date": "Sun, 18 Feb 2018 17:05:26 GMT"
+  },
+  "response_url": "https://www.mensfitnessmagazine.com.au/topics/health-nutrition/feed/"
+}

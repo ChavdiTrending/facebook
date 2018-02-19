@@ -1,0 +1,7 @@
+{
+  "requested_url": " sports http://feeds.foxnews.com/foxnews/sports",
+  "fetched_at": "2018-02-18T22:20:29.947994",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' sports http://feeds.foxnews.com/foxnews/sports'",
+  "headers": null
+}

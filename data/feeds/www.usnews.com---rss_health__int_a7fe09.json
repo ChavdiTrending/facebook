@@ -1,0 +1,16 @@
+{
+  "requested_url": "http://www.usnews.com/rss/health?int=a7fe09",
+  "fetched_at": "2018-02-18T22:20:23.064588",
+  "status_code": 403,
+  "response_text": "<HTML><HEAD>\n<TITLE>Access Denied</TITLE>\n</HEAD><BODY>\n<H1>Access Denied</H1>\n \nYou don't have permission to access \"http&#58;&#47;&#47;www&#46;usnews&#46;com&#47;rss&#47;health&#63;\" on this server.<P>\nReference&#32;&#35;18&#46;4032d417&#46;1518972623&#46;cf8f407\n</BODY>\n</HTML>\n",
+  "headers": {
+    "Connection": "close",
+    "Mime-Version": "1.0",
+    "Server": "AkamaiGHost",
+    "Date": "Sun, 18 Feb 2018 16:50:23 GMT",
+    "Content-Type": "text/html",
+    "Content-Length": "282",
+    "Expires": "Sun, 18 Feb 2018 16:50:23 GMT"
+  },
+  "response_url": "http://www.usnews.com/rss/health?int=a7fe09"
+}

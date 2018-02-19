@@ -1,0 +1,7 @@
+{
+  "requested_url": " sports http://sify.com/rss2/sports/article/category/cricket",
+  "fetched_at": "2018-02-18T22:21:58.617317",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' sports http://sify.com/rss2/sports/article/category/cricket'",
+  "headers": null
+}

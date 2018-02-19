@@ -1,0 +1,7 @@
+{
+  "requested_url": " health http://www.mansworldindia.com/feed/",
+  "fetched_at": "2018-02-18T22:21:58.591889",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' health http://www.mansworldindia.com/feed/'",
+  "headers": null
+}

@@ -1,0 +1,7 @@
+{
+  "requested_url": " politics http://www.thehindu.com/news/cities/?service=rss",
+  "fetched_at": "2018-02-18T22:21:58.443328",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' politics http://www.thehindu.com/news/cities/?service=rss'",
+  "headers": null
+}

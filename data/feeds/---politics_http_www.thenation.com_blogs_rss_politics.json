@@ -1,0 +1,7 @@
+{
+  "requested_url": " politics http://www.thenation.com/blogs/rss/politics",
+  "fetched_at": "2018-02-18T22:20:10.737238",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' politics http://www.thenation.com/blogs/rss/politics'",
+  "headers": null
+}

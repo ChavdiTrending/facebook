@@ -1,0 +1,24 @@
+{
+  "requested_url": "http://www.thehindu.com/sci-tech/?service=rss",
+  "fetched_at": "2018-02-18T22:22:02.184735",
+  "status_code": 200,
+  "response_text": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<rss version=\"2.0\">\n<channel>\n<title>The Hindu - Sci-Tech</title>\n<link>http://www.thehindu.com/</link>\n<description>RSS feed</description>\n<language>en-us</language>\n<copyright>Copyright 2018 The Hindu</copyright>\n<item>\n<title><![CDATA[IIT-M in process of creating India-specific cancer genome database ]]></title>\n<author><![CDATA[PTI]]></author>\n<category><![CDATA[Health]]></category>\n<link>http://www.thehindu.com/sci-tech/health/iit-m-in-process-of-creating-india-specific-cancer-genome-database/article22789183.ece?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication</link>\n<description><![CDATA[\nIIT-Madras is in the process of creating an India-specific cancer genome database aimed at early detection and development of better treatment strategy for the disease.The National Cancer Tissue Bio...\n]]>\n</description>\n<pubDate><![CDATA[Sun, 18 Feb 2018 12:57:28 +0530]]></pubDate>\n</item>\n<item>\n<title><![CDATA[ A cut that doesn\u2019t go deep]]></title>\n<author><![CDATA[Jyoti Shelar]]></author>\n<category><![CDATA[Health]]></category>\n<link>http://www.thehindu.com/sci-tech/health/a-cut-that-doesnt-go-deep/article22785713.ece?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication</link>\n<description><![CDATA[\nHospitals have devised ways and mechanisms to escalate the overall cost of a cardiac-surgery package ]]>\n</description>\n<pubDate><![CDATA[Sat, 17 Feb 2018 23:52:41 +0530]]></pubDate>\n</item>\n<item>\n<title><![CDATA[ Quest for innovation]]></title>\n<author><![CDATA[Vishwanath Mohan]]></author>\n<category><![CDATA[Health]]></category>\n<link>http://www.thehindu.com/sci-tech/health/quest-for-innovation/article22785743.ece?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication</link>\n<description><![CDATA[\nA large, nationally representative study of diabetes in India has found that more than 10% of Indians living in urban areas are affected with the disorder. However, the more worrisome fact is that h...\n]]>\n</description>\n<pubDate><![CDATA[Sat, 17 Feb 2018 23:53:46 +0530]]></pubDate>\n</item>\n<item>\n<title><![CDATA[ Tracking health wirelessly]]></title>\n<author><![CDATA[R. Sujatha]]></author>\n<category><![CDATA[Health]]></category>\n<link>http://www.thehindu.com/sci-tech/health/tracking-health-wirelessly/article22785771.ece?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication</link>\n<description><![CDATA[\nDoctors say it spells relief from invasive and inaccurate readings ]]>\n</description>\n<pubDate><![CDATA[Sat, 17 Feb 2018 23:52:55 +0530]]></pubDate>\n</item>\n<item>\n<title><![CDATA[The galloping doctor]]></title>\n<author><![CDATA[]]></author>\n<category><![CDATA[Health]]></category>\n<link>http://www.thehindu.com/sci-tech/health/the-galloping-doctor/article22785784.ece?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication</link>\n<description><![CDATA[\n...\n]]>\n</description>\n<pubDate><![CDATA[Sat, 17 Feb 2018 21:48:04 +0530]]></pubDate>\n</item>\n</channel>\n</rss>",
+  "headers": {
+    "Content-Type": "application/rss+xml;charset=UTF-8",
+    "Content-Encoding": "gzip",
+    "Connection": "keep-alive",
+    "X-Cache-Hits": "0",
+    "Expires": "Sun, 18 Feb 2018 16:52:34 GMT",
+    "Last-Modified": "Sun, 18 Feb 2018 16:41:17 GMT, Sun, 18 Feb 2018 07:27:28 GMT",
+    "ETag": "\"161a9ca83c8\"",
+    "Cache-Control": "private, max-age=32",
+    "Access-Control-Allow-Origin": "*",
+    "Date": "Sun, 18 Feb 2018 16:52:02 GMT",
+    "Content-Language": "en",
+    "Vary": "Accept-Encoding",
+    "Accept-Ranges": "bytes",
+    "Content-Length": "997",
+    "X-Frame-Options": "ALLOW-FROM http://www.thehindu.com"
+  },
+  "response_url": "http://www.thehindu.com/sci-tech/?service=rss"
+}

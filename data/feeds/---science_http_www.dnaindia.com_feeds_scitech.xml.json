@@ -1,0 +1,7 @@
+{
+  "requested_url": " science http://www.dnaindia.com/feeds/scitech.xml",
+  "fetched_at": "2018-02-18T22:21:58.599658",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' science http://www.dnaindia.com/feeds/scitech.xml'",
+  "headers": null
+}

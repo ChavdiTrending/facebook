@@ -1,0 +1,7 @@
+{
+  "requested_url": " gaming http://www.pcquest.com/rss-2-2/?cat_slug=games",
+  "fetched_at": "2018-02-18T22:21:58.594617",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' gaming http://www.pcquest.com/rss-2-2/?cat_slug=games'",
+  "headers": null
+}

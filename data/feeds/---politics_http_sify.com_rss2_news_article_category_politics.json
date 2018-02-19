@@ -1,0 +1,7 @@
+{
+  "requested_url": " politics http://sify.com/rss2/news/article/category/politics",
+  "fetched_at": "2018-02-18T22:21:58.435499",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' politics http://sify.com/rss2/news/article/category/politics'",
+  "headers": null
+}

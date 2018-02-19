@@ -1,0 +1,7 @@
+{
+  "requested_url": " business http://www.huffingtonpost.com/feeds/verticals/business/news.xml",
+  "fetched_at": "2018-02-18T22:21:58.563962",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' business http://www.huffingtonpost.com/feeds/verticals/business/news.xml'",
+  "headers": null
+}

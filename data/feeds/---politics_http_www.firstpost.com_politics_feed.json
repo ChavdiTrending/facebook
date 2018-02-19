@@ -1,0 +1,7 @@
+{
+  "requested_url": " politics http://www.firstpost.com/politics/feed",
+  "fetched_at": "2018-02-18T22:21:58.514431",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' politics http://www.firstpost.com/politics/feed'",
+  "headers": null
+}

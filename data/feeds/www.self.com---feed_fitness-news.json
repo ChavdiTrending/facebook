@@ -1,0 +1,26 @@
+{
+  "requested_url": "http://www.self.com/feed/fitness-news/",
+  "fetched_at": "2018-02-18T22:20:26.381718",
+  "status_code": 404,
+  "response_text": "{\"statusCode\":404,\"error\":\"Not Found\",\"message\":\"Unknown format: \"}",
+  "headers": {
+    "Set-Cookie": "_pxCaptcha=; Expires=Thu, 01 Jan 1970 00:00:00 GMT; path=/; ",
+    "Fastly-Restarts": "1",
+    "Vary": "accept-encoding",
+    "Content-Encoding": "gzip",
+    "Connection": "keep-alive",
+    "Strict-Transport-Security": "max-age=7776000; preload",
+    "X-Cache-Hits": "0",
+    "Content-Security-Policy": "default-src https: data: 'unsafe-inline' 'unsafe-eval'; child-src https: data: blob:; connect-src https: data: blob:; font-src https: data:; img-src https: data: blob:; media-src https: data: blob:; object-src https:; script-src https: data: blob: 'unsafe-inline' 'unsafe-eval'; style-src https: 'unsafe-inline'; block-all-mixed-content; upgrade-insecure-requests; report-uri https://capture.condenastdigital.com/csp/self",
+    "X-Cache": "MISS",
+    "Content-Type": "application/json; charset=utf-8",
+    "Age": "0",
+    "X-FC-Vary-Parameters": "acceptencoding",
+    "Date": "Sun, 18 Feb 2018 16:50:27 GMT",
+    "X-Served-By": "cache-ams4431-AMS",
+    "Accept-Ranges": "bytes",
+    "Content-Length": "86",
+    "Cache-Control": "max-age=5"
+  },
+  "response_url": "https://www.self.com/feed/fitness-news/"
+}

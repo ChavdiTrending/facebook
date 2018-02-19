@@ -1,0 +1,7 @@
+{
+  "requested_url": " science http://hosted2.ap.org/atom/APDEFAULT/b2f0ca3a594644ee9e50a8ec4ce2d6de",
+  "fetched_at": "2018-02-18T22:20:29.925988",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' science http://hosted2.ap.org/atom/APDEFAULT/b2f0ca3a594644ee9e50a8ec4ce2d6de'",
+  "headers": null
+}

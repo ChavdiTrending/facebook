@@ -1,0 +1,7 @@
+{
+  "requested_url": " science http://feeds.feedburner.com/DiscoverTopStories",
+  "fetched_at": "2018-02-18T22:20:29.893112",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' science http://feeds.feedburner.com/DiscoverTopStories'",
+  "headers": null
+}

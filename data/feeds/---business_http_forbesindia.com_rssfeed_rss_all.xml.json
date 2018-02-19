@@ -1,0 +1,7 @@
+{
+  "requested_url": " business http://forbesindia.com/rssfeed/rss_all.xml",
+  "fetched_at": "2018-02-18T22:21:58.554978",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' business http://forbesindia.com/rssfeed/rss_all.xml'",
+  "headers": null
+}

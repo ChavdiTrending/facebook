@@ -1,0 +1,7 @@
+{
+  "requested_url": " general http://syndication.financialexpress.com/rss/latest-news.xml",
+  "fetched_at": "2018-02-18T22:21:58.425347",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' general http://syndication.financialexpress.com/rss/latest-news.xml'",
+  "headers": null
+}

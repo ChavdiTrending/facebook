@@ -1,0 +1,23 @@
+{
+  "requested_url": "http://indianexpress.com/entertainment/feed/",
+  "fetched_at": "2018-02-18T22:22:14.946979",
+  "status_code": 200,
+  "response_text": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmlns:dc=\"http://purl.org/dc/elements/1.1/\"\n\txmlns:atom=\"http://www.w3.org/2005/Atom\"\n\txmlns:sy=\"http://purl.org/rss/1.0/modules/syndication/\"\n\txmlns:georss=\"http://www.georss.org/georss\" xmlns:geo=\"http://www.w3.org/2003/01/geo/wgs84_pos#\" xmlns:media=\"http://search.yahoo.com/mrss/\"\n\t\n\t>\n<channel>\n\t<title>Comments on: </title>\n\t<atom:link href=\"http://indianexpress.com/entertainment/feed/\" rel=\"self\" type=\"application/rss+xml\" />\n\t<link>http://indianexpress.com</link>\n\t<description>Latest News, Breaking News Live, Current Headlines, India News Online</description>\n\t<lastBuildDate>Sun, 18 Feb 2018 16:52:15 +0000</lastBuildDate>\n\t<sy:updatePeriod>hourly</sy:updatePeriod>\n\t<sy:updateFrequency>1</sy:updateFrequency>\n\t<generator>http://wordpress.com/</generator>\n</channel>\n</rss>",
+  "headers": {
+    "Transfer-Encoding": "chunked",
+    "Content-Type": "application/rss+xml; charset=UTF-8",
+    "Link": "<https://wp.me/P3DY9j-85Et>; rel=shortlink",
+    "Server": "nginx",
+    "Vary": "Accept-Encoding, Cookie",
+    "Connection": "keep-alive",
+    "Last-Modified": "Sun, 18 Feb 2018 16:52:15 GMT",
+    "ETag": "W/\"7848a27ea1415af9cebc9f765ab275a1\"",
+    "Cache-Control": "max-age=300, must-revalidate",
+    "Date": "Sun, 18 Feb 2018 16:52:15 GMT",
+    "Content-Encoding": "gzip",
+    "X-ac": "4.cdg _dca",
+    "X-nananana": "Batcache",
+    "X-hacker": "If you're reading this, you should visit automattic.com/jobs and apply to join the fun, mention this header."
+  },
+  "response_url": "http://indianexpress.com/entertainment/feed/"
+}

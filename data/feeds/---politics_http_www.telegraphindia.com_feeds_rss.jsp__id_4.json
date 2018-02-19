@@ -1,0 +1,7 @@
+{
+  "requested_url": " politics http://www.telegraphindia.com/feeds/rss.jsp?id=4",
+  "fetched_at": "2018-02-18T22:21:58.432711",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' politics http://www.telegraphindia.com/feeds/rss.jsp?id=4'",
+  "headers": null
+}

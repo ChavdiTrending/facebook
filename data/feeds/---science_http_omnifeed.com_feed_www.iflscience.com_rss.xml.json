@@ -1,0 +1,7 @@
+{
+  "requested_url": " science http://omnifeed.com/feed/www.iflscience.com/rss.xml",
+  "fetched_at": "2018-02-18T22:20:29.927241",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' science http://omnifeed.com/feed/www.iflscience.com/rss.xml'",
+  "headers": null
+}

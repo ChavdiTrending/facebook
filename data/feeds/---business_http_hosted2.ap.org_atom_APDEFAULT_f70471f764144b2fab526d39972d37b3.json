@@ -1,0 +1,7 @@
+{
+  "requested_url": " business http://hosted2.ap.org/atom/APDEFAULT/f70471f764144b2fab526d39972d37b3",
+  "fetched_at": "2018-02-18T22:20:10.766577",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' business http://hosted2.ap.org/atom/APDEFAULT/f70471f764144b2fab526d39972d37b3'",
+  "headers": null
+}

@@ -1,0 +1,7 @@
+{
+  "requested_url": " sports http://www.telegraphindia.com/feeds/rss.jsp?id=7",
+  "fetched_at": "2018-02-18T22:21:58.610215",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' sports http://www.telegraphindia.com/feeds/rss.jsp?id=7'",
+  "headers": null
+}

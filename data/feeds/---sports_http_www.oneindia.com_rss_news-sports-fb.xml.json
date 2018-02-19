@@ -1,0 +1,7 @@
+{
+  "requested_url": " sports http://www.oneindia.com/rss/news-sports-fb.xml",
+  "fetched_at": "2018-02-18T22:21:58.613936",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' sports http://www.oneindia.com/rss/news-sports-fb.xml'",
+  "headers": null
+}

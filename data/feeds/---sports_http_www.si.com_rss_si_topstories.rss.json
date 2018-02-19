@@ -1,0 +1,7 @@
+{
+  "requested_url": " sports http://www.si.com/rss/si_topstories.rss",
+  "fetched_at": "2018-02-18T22:20:29.954610",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' sports http://www.si.com/rss/si_topstories.rss'",
+  "headers": null
+}

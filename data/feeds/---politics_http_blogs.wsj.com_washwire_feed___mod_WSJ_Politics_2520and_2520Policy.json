@@ -1,0 +1,7 @@
+{
+  "requested_url": " politics http://blogs.wsj.com/washwire/feed/?mod=WSJ_Politics%2520and%2520Policy",
+  "fetched_at": "2018-02-18T22:20:10.714373",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' politics http://blogs.wsj.com/washwire/feed/?mod=WSJ_Politics%2520and%2520Policy'",
+  "headers": null
+}

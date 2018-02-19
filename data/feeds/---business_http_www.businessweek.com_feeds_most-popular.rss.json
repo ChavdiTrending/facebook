@@ -1,0 +1,7 @@
+{
+  "requested_url": " business http://www.businessweek.com/feeds/most-popular.rss",
+  "fetched_at": "2018-02-18T22:21:58.545611",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' business http://www.businessweek.com/feeds/most-popular.rss'",
+  "headers": null
+}

@@ -1,0 +1,7 @@
+{
+  "requested_url": " health http://www.npr.org/rss/rss.php?id=1128",
+  "fetched_at": "2018-02-18T22:20:29.841474",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' health http://www.npr.org/rss/rss.php?id=1128'",
+  "headers": null
+}

@@ -1,0 +1,7 @@
+{
+  "requested_url": " politics http://www.npr.org/rss/rss.php?id=1014",
+  "fetched_at": "2018-02-18T22:20:10.720746",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' politics http://www.npr.org/rss/rss.php?id=1014'",
+  "headers": null
+}

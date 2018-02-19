@@ -1,0 +1,15 @@
+{
+  "requested_url": "http://www.newsweek.com/rss",
+  "fetched_at": "2018-02-18T22:20:03.135977",
+  "status_code": 403,
+  "response_text": "Forbidden",
+  "headers": {
+    "Connection": "keep-alive",
+    "Server": "Varnish",
+    "Date": "Sun, 18 Feb 2018 16:50:03 GMT",
+    "Content-Type": "text/html; charset=utf-8",
+    "Content-Length": "9",
+    "X-Varnish": "5266501"
+  },
+  "response_url": "http://www.newsweek.com/rss"
+}

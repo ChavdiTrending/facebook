@@ -1,0 +1,7 @@
+{
+  "requested_url": " science http://www.chron.com/rss/feed/AP-Technology-and-Science-266.php",
+  "fetched_at": "2018-02-18T22:20:29.889339",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' science http://www.chron.com/rss/feed/AP-Technology-and-Science-266.php'",
+  "headers": null
+}

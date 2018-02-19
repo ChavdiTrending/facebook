@@ -1,0 +1,21 @@
+{
+  "requested_url": "http://www.polygon.com/rss/index.xml",
+  "fetched_at": "2018-02-18T22:20:45.737607",
+  "status_code": 403,
+  "response_text": "Forbidden",
+  "headers": {
+    "Retry-After": "0",
+    "Server": "Varnish",
+    "X-Timer": "S1518972646.064609,VS0,VE0",
+    "Content-Type": "text",
+    "Via": "1.1 varnish",
+    "X-Cache-Hits": "0",
+    "X-Cache": "HIT",
+    "Connection": "close",
+    "Date": "Sun, 18 Feb 2018 16:50:46 GMT",
+    "X-Served-By": "cache-sin18027-SIN",
+    "Accept-Ranges": "bytes",
+    "Content-Length": "9"
+  },
+  "response_url": "http://www.polygon.com/rss/index.xml"
+}

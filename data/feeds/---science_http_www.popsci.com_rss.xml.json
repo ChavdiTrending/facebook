@@ -1,0 +1,7 @@
+{
+  "requested_url": " science http://www.popsci.com/rss.xml",
+  "fetched_at": "2018-02-18T22:20:29.908124",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' science http://www.popsci.com/rss.xml'",
+  "headers": null
+}

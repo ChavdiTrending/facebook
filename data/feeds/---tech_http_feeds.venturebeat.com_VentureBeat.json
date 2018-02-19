@@ -1,0 +1,7 @@
+{
+  "requested_url": " tech http://feeds.venturebeat.com/VentureBeat",
+  "fetched_at": "2018-02-18T22:20:29.994946",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' tech http://feeds.venturebeat.com/VentureBeat'",
+  "headers": null
+}

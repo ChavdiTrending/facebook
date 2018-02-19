@@ -1,0 +1,7 @@
+{
+  "requested_url": "://feeds.smh.com.au/rssheadlines/entertainment.xml",
+  "fetched_at": "2018-02-18T22:36:02.425614",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for '://feeds.smh.com.au/rssheadlines/entertainment.xml'",
+  "headers": null
+}

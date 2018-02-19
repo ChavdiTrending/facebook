@@ -1,0 +1,7 @@
+{
+  "requested_url": " business http://timesofindia.feedsportal.com/c/33039/f/533919/index.rss",
+  "fetched_at": "2018-02-18T22:21:58.542489",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' business http://timesofindia.feedsportal.com/c/33039/f/533919/index.rss'",
+  "headers": null
+}

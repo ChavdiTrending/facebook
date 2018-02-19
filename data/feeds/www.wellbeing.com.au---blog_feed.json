@@ -1,0 +1,19 @@
+{
+  "requested_url": "http://www.wellbeing.com.au/blog/feed/",
+  "fetched_at": "2018-02-18T22:35:21.213016",
+  "status_code": 500,
+  "response_text": "<!DOCTYPE html>\n<html xmlns=\"http://www.w3.org/1999/xhtml\" >\n<head>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />\n\t<title>Database Error</title>\n\n</head>\n<body>\n\t<h1>Error establishing a database connection</h1>\n</body>\n</html>\n",
+  "headers": {
+    "Content-Type": "text/html; charset=utf-8",
+    "X-Powered-By": "PHP/5.5.9-1ubuntu4.22",
+    "Connection": "close",
+    "Cache-Control": "no-cache, must-revalidate, max-age=0",
+    "Server": "Apache/2.4.7 (Ubuntu)",
+    "Date": "Sun, 18 Feb 2018 17:06:41 GMT",
+    "Last-Modified": "Sun, 18 Feb 2018 17:06:41 GMT",
+    "Pragma": "no-cache",
+    "Content-Length": "252",
+    "Expires": "Wed, 11 Jan 1984 05:00:00 GMT"
+  },
+  "response_url": "http://www.wellbeing.com.au/blog/feed/"
+}

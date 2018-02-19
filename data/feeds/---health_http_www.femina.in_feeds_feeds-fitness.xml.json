@@ -1,0 +1,7 @@
+{
+  "requested_url": " health http://www.femina.in/feeds/feeds-fitness.xml",
+  "fetched_at": "2018-02-18T22:21:58.579873",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' health http://www.femina.in/feeds/feeds-fitness.xml'",
+  "headers": null
+}

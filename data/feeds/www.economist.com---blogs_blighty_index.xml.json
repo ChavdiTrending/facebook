@@ -1,0 +1,21 @@
+{
+  "requested_url": "http://www.economist.com/blogs/blighty/index.xml",
+  "fetched_at": "2018-02-18T22:22:38.071173",
+  "status_code": 403,
+  "response_text": "<!DOCTYPE html>\n<html>\n  <head>\n    <title>403 You are banned from this site.  Please contact via a different client configuration if you believe that this is a mistake.</title>\n  </head>\n  <body>\n    <h1>Error 403 You are banned from this site.  Please contact via a different client configuration if you believe that this is a mistake.</h1>\n    <p>You are banned from this site.  Please contact via a different client configuration if you believe that this is a mistake.</p>\n    <h3>Guru Meditation:</h3>\n    <p>XID: 528498822</p>\n    <hr>\n    <p>Varnish cache server</p>\n  <script type=\"text/javascript\">\n//<![CDATA[\n(function() {\nvar _analytics_scr = document.createElement('script');\n_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=522972205';\nvar _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_elem.parentNode.insertBefore(_analytics_scr, _analytics_elem);\n})();\n// ]]>\n</script></body>\n</html>\n",
+  "headers": {
+    "Transfer-Encoding": "chunked",
+    "Set-Cookie": "visid_incap_121505=2J+UlijMTQG6goYPv0NYoVaviVoAAAAAQUIPAAAAAAD3ZB5KYjlmm0l8OhdZ6w8E; expires=Mon, 18 Feb 2019 15:06:04 GMT; path=/; Domain=.economist.com, nlbi_121505=rqn5CHPb7XAVt2JhNCSsiwAAAAAHdGZVkSx32zwnu2mQgXd2; path=/; Domain=.economist.com, incap_ses_706_121505=3jn2BwDhYzW2Ao/tjDfMCVaviVoAAAAADIffGW+53zX0RBKY9hjqJA==; path=/; Domain=.economist.com, ___utmvmcyuZKyc=AfsrZkTfcsy; path=/; Max-Age=900, ___utmvacyuZKyc=toG\u0001eEyL; path=/; Max-Age=900, ___utmvbcyuZKyc=gZr\r\n    XTrOyalD: ltT; path=/; Max-Age=900",
+    "Server": "Varnish",
+    "X-Iinfo": "12-5740611-5740612 NNNN CT(30 -1 0) RT(1518972758022 1) q(0 0 0 -1) r(2 2) U5",
+    "Content-Type": "text/html; charset=utf-8",
+    "Via": "1.1 b99688b7573aa0d5d026593b0eac8b3c.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Id": "nZSWpIfbkB3DP01WwA3qB4J28O_hX_yBqlVIhpGacYv4CfZy6hc29g==",
+    "X-Cache": "Error from cloudfront",
+    "Connection": "keep-alive",
+    "Date": "Sun, 18 Feb 2018 16:52:38 GMT",
+    "X-CDN": "Incapsula",
+    "Retry-After": "5"
+  },
+  "response_url": "http://www.economist.com/blogs/blighty/index.xml"
+}

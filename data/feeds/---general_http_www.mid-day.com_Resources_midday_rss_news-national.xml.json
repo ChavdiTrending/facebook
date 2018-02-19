@@ -1,0 +1,7 @@
+{
+  "requested_url": " general http://www.mid-day.com/Resources/midday/rss/news-national.xml",
+  "fetched_at": "2018-02-18T22:21:58.427374",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' general http://www.mid-day.com/Resources/midday/rss/news-national.xml'",
+  "headers": null
+}

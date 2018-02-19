@@ -1,0 +1,7 @@
+{
+  "requested_url": " science http://phys.org/rss-feed/",
+  "fetched_at": "2018-02-18T22:20:29.922225",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' science http://phys.org/rss-feed/'",
+  "headers": null
+}

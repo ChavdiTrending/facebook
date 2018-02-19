@@ -1,0 +1,24 @@
+{
+  "requested_url": "http://www.thestar.com/feeds.blogs.news.politics_blog.rss",
+  "fetched_at": "2018-02-18T22:21:02.889174",
+  "status_code": 200,
+  "response_text": "<rss version=\"2.0\" xmlns:atom=\"http://www.w3.org/2005/Atom\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:media=\"http://search.yahoo.com/mrss/\" xmlns:thestar=\"http://thestar.com/thestar\"><channel>\t<description> | NEWS | POLITICS_BLOG</description>\n\t<copyright>Copyright Toronto Star 1996-2013 , http://www.thestar.com/terms</copyright>\n\t<docs>https://www.thestar.com</docs>\n\t<ttl>60</ttl>\n\t<pubDate>Sun, 18 Feb 2018 11:51:03 EST</pubDate>\n<image>\t<title>Toronto Star | NEWS | POLITICS_BLOG</title>\n\t<url>https://www.thestar.com/etc/designs/thestar/images/general/thestar_250x40.png</url>\n\t<link>https://www.thestar.com/content/thestar/feed.RSSManagerServlet.blogs.news.politics_blog.rss</link>\n</image><atom:link href=\"https://www.thestar.com/content/thestar/feed.RSSManagerServlet.blogs.news.politics_blog.rss\" type=\"application/rss+xml\"></atom:link>\t<title>TORONTO STAR</title>\n\t<link>https://www.thestar.com/content/thestar/feed.RSSManagerServlet.blogs.news.politics_blog.rss</link>\n\t<language>en-ca</language>\n\t<lastBuildDate>Sun, 18 Feb 2018 11:51:03 EST</lastBuildDate>\n</channel></rss>",
+  "headers": {
+    "Server": "Apache/2.2.34 (Amazon)",
+    "Content-Type": "application/rss+xml; charset=utf-8",
+    "Via": "1.1 cae967a4c7def5a919d0430f7422404e.cloudfront.net (CloudFront)",
+    "Connection": "keep-alive",
+    "X-Amz-Cf-Id": "1Rji9eNIPu9QQyyRYai1tfWPXqjfr482sUYFMD3OVKTplOnj4cnHpw==",
+    "Expires": "Sun, 18 Feb 2018 17:06:03 GMT",
+    "X-Cache": "Miss from cloudfront",
+    "Last-Modified": "Sun, 18 Feb 2018 16:51:03 GMT",
+    "ETag": "W/\"658c63-448-5657f6207fe71\"",
+    "Cache-Control": "max-age=900, private, must-revalidate",
+    "Date": "Sun, 18 Feb 2018 16:51:03 GMT",
+    "Vary": "Accept-Encoding",
+    "Accept-Ranges": "bytes",
+    "Content-Length": "497",
+    "Content-Encoding": "gzip"
+  },
+  "response_url": "http://www.thestar.com/content/thestar/feed.RSSManagerServlet.blogs.news.politics_blog.rss"
+}

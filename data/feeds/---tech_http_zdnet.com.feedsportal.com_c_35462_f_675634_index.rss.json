@@ -1,0 +1,7 @@
+{
+  "requested_url": " tech http://zdnet.com.feedsportal.com/c/35462/f/675634/index.rss",
+  "fetched_at": "2018-02-18T22:20:30.015297",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' tech http://zdnet.com.feedsportal.com/c/35462/f/675634/index.rss'",
+  "headers": null
+}

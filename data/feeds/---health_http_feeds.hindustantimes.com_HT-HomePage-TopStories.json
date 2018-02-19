@@ -1,0 +1,7 @@
+{
+  "requested_url": " health http://feeds.hindustantimes.com/HT-HomePage-TopStories",
+  "fetched_at": "2018-02-18T22:21:58.580111",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' health http://feeds.hindustantimes.com/HT-HomePage-TopStories'",
+  "headers": null
+}

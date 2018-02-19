@@ -1,0 +1,7 @@
+{
+  "requested_url": " politics http://feeds.feedburner.com/realclearpolitics/qlMj",
+  "fetched_at": "2018-02-18T22:20:10.741613",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' politics http://feeds.feedburner.com/realclearpolitics/qlMj'",
+  "headers": null
+}

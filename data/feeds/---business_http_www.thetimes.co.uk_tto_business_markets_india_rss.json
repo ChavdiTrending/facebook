@@ -1,0 +1,7 @@
+{
+  "requested_url": " business http://www.thetimes.co.uk/tto/business/markets/india/rss",
+  "fetched_at": "2018-02-18T22:21:58.570228",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' business http://www.thetimes.co.uk/tto/business/markets/india/rss'",
+  "headers": null
+}

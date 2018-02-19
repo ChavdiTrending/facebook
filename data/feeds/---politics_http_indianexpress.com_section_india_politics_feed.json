@@ -1,0 +1,7 @@
+{
+  "requested_url": " politics http://indianexpress.com/section/india/politics/feed/",
+  "fetched_at": "2018-02-18T22:21:58.507080",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' politics http://indianexpress.com/section/india/politics/feed/'",
+  "headers": null
+}

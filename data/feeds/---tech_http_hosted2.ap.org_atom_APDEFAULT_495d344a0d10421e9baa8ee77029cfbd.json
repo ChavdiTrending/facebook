@@ -1,0 +1,7 @@
+{
+  "requested_url": " tech http://hosted2.ap.org/atom/APDEFAULT/495d344a0d10421e9baa8ee77029cfbd",
+  "fetched_at": "2018-02-18T22:20:30.046338",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' tech http://hosted2.ap.org/atom/APDEFAULT/495d344a0d10421e9baa8ee77029cfbd'",
+  "headers": null
+}

@@ -1,0 +1,7 @@
+{
+  "requested_url": " business http://www.livemint.com/rss/money",
+  "fetched_at": "2018-02-18T22:21:58.576748",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' business http://www.livemint.com/rss/money'",
+  "headers": null
+}

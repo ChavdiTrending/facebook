@@ -1,0 +1,7 @@
+{
+  "requested_url": "http://www.candis.co.uk/feed/",
+  "fetched_at": "2018-02-18T22:24:35.412134",
+  "status_code": "ContentDecodingError",
+  "response_text": "('Received response with content-encoding: gzip, but failed to decode it.', error('Error -3 while decompressing data: incorrect header check',))",
+  "headers": null
+}

@@ -1,0 +1,7 @@
+{
+  "requested_url": " business https://news.google.com/news/feeds?cf=all&ned=in&hl=en&topic=b&output=rss",
+  "fetched_at": "2018-02-18T22:21:58.570131",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' business https://news.google.com/news/feeds?cf=all&ned=in&hl=en&topic=b&output=rss'",
+  "headers": null
+}

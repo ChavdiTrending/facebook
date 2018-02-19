@@ -1,0 +1,7 @@
+{
+  "requested_url": " health http://www.thehindu.com/sci-tech/health/?service=rss",
+  "fetched_at": "2018-02-18T22:21:58.593499",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' health http://www.thehindu.com/sci-tech/health/?service=rss'",
+  "headers": null
+}

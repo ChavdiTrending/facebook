@@ -1,0 +1,29 @@
+{
+  "requested_url": "http://www.independent.co.uk/arts-entertainment/tv/rss",
+  "fetched_at": "2018-02-18T22:33:13.665705",
+  "status_code": 200,
+  "response_text": "<?xml version=\"1.0\" encoding=\"utf-8\"?>\n<rss xmlns:content=\"http://purl.org/rss/1.0/modules/content/\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:media=\"http://search.yahoo.com/mrss/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:taxo=\"http://purl.org/rss/1.0/modules/taxonomy/\"  xmlns:atom=\"http://www.w3.org/2005/Atom\" version=\"2.0\" >\n<channel>\n<title>The Independent - TV &amp; Radio</title>\n<link>http://www.independent.co.uk/arts-entertainment/tv/rss</link>\n<description>The Independent - TV &amp; Radio Feed</description>\n<atom:link rel=\"self\" href=\"http://www.independent.co.uk/arts-entertainment/tv/rss\" />\n<item>\n  <title>Mary Beard posts tearful picture of herself after defence of Oxfam aid workers provokes backlash</title>\n  <link>http://www.independent.co.uk/news/uk/home-news/mary-beard-tweet-oxfam-aid-workers-sex-scandal-backlash-feminists-cambridge-priyamvada-gopal-latest-a8216306.html</link>\n  <description><![CDATA[Academic was criticised both for the original tweet and for &apos;manipulative&apos; photo]]></description>\n  <pubDate>Sun, 18 Feb 2018 11:28:00 +0000</pubDate>\n  <guid>a8216306</guid>\n  <author>Roisin O&apos;Connor</author>\n  <dc:creator>Roisin O&apos;Connor</dc:creator>\n  <dc:date>2018-02-18T11:28:00+00:00</dc:date>\n  <media:thumbnail url=\"https://static.independent.co.uk/s3fs-public/styles/feed/public/thumbnails/image/2018/02/18/11/screen-shot-2018-02-18-at-11.35.07.png\" type=\"image/png\"/>\n  <media:content url=\"https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/02/18/11/screen-shot-2018-02-18-at-11.35.07.png\" type=\"image/png\"/>\n</item>\n</channel>\n</rss>",
+  "headers": {
+    "X-Request-ID": "v-3559d44a-14b8-11e8-a0ce-22000a2745e4",
+    "Set-Cookie": "Locale=UK",
+    "X-Timer": "S1518973394.973975,VS0,VE183",
+    "Server": "nginx",
+    "Vary": "Locale, ines_tg",
+    "Via": "1.1 varnish-v4, 1.1 varnish",
+    "Cache-control": "no-cache, no-store, max-age=0, must-revalidate",
+    "X-Content-Type-Options": "nosniff",
+    "X-Cache-Hits": "13, 0",
+    "Connection": "keep-alive",
+    "X-Cache": "HIT, MISS",
+    "Content-Type": "application/xml; charset=utf-8",
+    "Age": "9190",
+    "Expires": "Sun, 19 Nov 1978 05:00:00 GMT",
+    "Date": "Sun, 18 Feb 2018 17:03:14 GMT",
+    "X-Drupal-Cache": "MISS",
+    "X-Served-By": "cache-sin18029-SIN",
+    "Accept-Ranges": "bytes",
+    "X-AH-Environment": "prod",
+    "Content-Length": "1637"
+  },
+  "response_url": "http://www.independent.co.uk/arts-entertainment/tv/rss"
+}

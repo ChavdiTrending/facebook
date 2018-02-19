@@ -1,0 +1,7 @@
+{
+  "requested_url": " sports http://hosted.ap.org/lineups/SPORTSHEADS.rss?SITE=AP&SECTION=HOME",
+  "fetched_at": "2018-02-18T22:20:29.961993",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' sports http://hosted.ap.org/lineups/SPORTSHEADS.rss?SITE=AP&SECTION=HOME'",
+  "headers": null
+}

@@ -1,0 +1,7 @@
+{
+  "requested_url": " science http://www.npr.org/templates/rss/podlayer.php?id=1007",
+  "fetched_at": "2018-02-18T22:20:29.898078",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' science http://www.npr.org/templates/rss/podlayer.php?id=1007'",
+  "headers": null
+}

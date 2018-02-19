@@ -1,0 +1,7 @@
+{
+  "requested_url": " science http://feeds.newscientist.com/space",
+  "fetched_at": "2018-02-18T22:20:29.915894",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' science http://feeds.newscientist.com/space'",
+  "headers": null
+}

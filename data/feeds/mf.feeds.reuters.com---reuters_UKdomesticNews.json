@@ -1,0 +1,7 @@
+{
+  "requested_url": "http://mf.feeds.reuters.com/reuters/UKdomesticNews",
+  "fetched_at": "2018-02-18T22:22:37.674886",
+  "status_code": "ReadTimeout",
+  "response_text": "HTTPConnectionPool(host='mf.feeds.reuters.com', port=80): Read timed out. (read timeout=None)",
+  "headers": null
+}

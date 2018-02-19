@@ -1,0 +1,18 @@
+{
+  "requested_url": "http://feeds.webservice.techradar.com/rss/new",
+  "fetched_at": "2018-02-18T22:30:32.913497",
+  "status_code": 500,
+  "response_text": "",
+  "headers": {
+    "Transfer-Encoding": "chunked",
+    "X-FTR-Backend-Server": "bogor.priv",
+    "Content-Type": "text/html",
+    "Date": "Sun, 18 Feb 2018 17:00:33 GMT",
+    "X-FTR-Balancer": "apiproxyprod01",
+    "X-FTR-Backend": "bogor",
+    "X-FTR-DC": "IX",
+    "X-FTR-Realm": "pip",
+    "X-FTR-Request-ID": "00000000:B1FA_00000000:0050_5A89B131_ECD0031:5663"
+  },
+  "response_url": "http://feeds.webservice.techradar.com/rss/new"
+}

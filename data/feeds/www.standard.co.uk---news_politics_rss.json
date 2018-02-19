@@ -1,0 +1,28 @@
+{
+  "requested_url": "http://www.standard.co.uk/news/politics/rss",
+  "fetched_at": "2018-02-18T22:22:46.018533",
+  "status_code": 200,
+  "response_text": "<?xml version=\"1.0\" encoding=\"utf-8\"?>\n<rss xmlns:content=\"http://purl.org/rss/1.0/modules/content/\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:media=\"http://search.yahoo.com/mrss/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:taxo=\"http://purl.org/rss/1.0/modules/taxonomy/\"  xmlns:atom=\"http://www.w3.org/2005/Atom\" version=\"2.0\" >\n<channel>\n<title>Evening Standard - Politics</title>\n<link>https://www.standard.co.uk/news/politics/rss</link>\n<description>Evening Standard - Politics Feed</description>\n<atom:link rel=\"self\" href=\"https://www.standard.co.uk/news/politics/rss\" />\n<item>\n  <title>UKIP leader Henry Bolton forced out by no confidence vote</title>\n  <link>https://www.standard.co.uk/news/politics/ukip-leader-henry-bolton-loses-vote-of-no-confidence-a3769271.html</link>\n  <description><![CDATA[Gerard Batten named interim leader of troubled party]]></description>\n  <pubDate>Sat, 17 Feb 2018 16:43:00 +0000</pubDate>\n  <guid>a3769271</guid>\n  <author>Martin Coulter</author>\n  <dc:creator>Martin Coulter</dc:creator>\n  <dc:date>2018-02-17T16:43:00+00:00</dc:date>\n  <media:thumbnail url=\"https://static.standard.co.uk/s3fs-public/styles/feed/public/thumbnails/image/2018/01/18/08/henrybolton.jpg\" type=\"image/jpeg\"/>\n  <media:content url=\"https://static.standard.co.uk/s3fs-public/thumbnails/image/2018/01/18/08/henrybolton.jpg\" type=\"image/jpeg\"/>\n</item>\n</channel>\n</rss>",
+  "headers": {
+    "X-Request-ID": "v-72f1a1c6-14c6-11e8-a8f2-22000a662134",
+    "X-Timer": "S1518972766.377543,VS0,VE1",
+    "Server": "nginx",
+    "Vary": "ines_tg",
+    "Via": "1.1 varnish-v4, 1.1 varnish",
+    "Cache-control": "no-cache, no-store, max-age=0, must-revalidate",
+    "X-Content-Type-Options": "nosniff",
+    "Expires": "Sun, 19 Nov 1978 05:00:00 GMT",
+    "Connection": "keep-alive",
+    "X-Cache": "HIT, HIT",
+    "Content-Type": "application/xml; charset=utf-8",
+    "Age": "2446",
+    "X-Cache-Hits": "12, 1",
+    "Date": "Sun, 18 Feb 2018 16:52:46 GMT",
+    "X-Drupal-Cache": "MISS",
+    "X-Served-By": "cache-ams4425-AMS",
+    "Accept-Ranges": "bytes",
+    "X-AH-Environment": "prod",
+    "Content-Length": "1415"
+  },
+  "response_url": "http://www.standard.co.uk/news/politics/rss"
+}

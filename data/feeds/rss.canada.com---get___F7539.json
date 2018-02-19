@@ -1,0 +1,19 @@
+{
+  "requested_url": "http://rss.canada.com/get/?F7539",
+  "fetched_at": "2018-02-18T22:21:32.020193",
+  "status_code": 200,
+  "response_text": "<?xml version=\"1.0\" encoding=\"utf-8\"?><rss version=\"2.0\"><channel><title><![CDATA[The Province - Technology]]></title><link>http://www.theprovince.com/Scripts/Sp6Query.aspx?format=ATOM</link><description><![CDATA[Search results for your query]]></description><language>en-ca</language><copyright>(c) Postmedia Network Inc.</copyright><managingEditor></managingEditor><lastBuildDate>Sun, 18 Feb 2018 04:26:44 GMT</lastBuildDate><category></category><generator>(c) Postmedia Network Inc.</generator><item><title><![CDATA['Behind in our preparation:' Nunavut rushing to meet pot deadline]]></title><link>/technology/nunavut+rushing+meet+deadline/17071049/story.html</link><author>The Canadian Press</author><pubDate>Sun, 18 Feb 2018 12:00:00 GMT</pubDate><description><![CDATA[<p><img src=\"cms/binary/17071050.jpg?size=m\" border=\"0\" align=\"left\" />IQALUIT, Nunavut &#8212; With marijuana legalization only months away, members of Nunavut's new government are finally discussing how the territory will handle the change.</p><br clear=\"all\" />]]></description><enclosure url=\"cms/binary/17071050.jpg\" type=\"image/jpeg\"></enclosure><guid isPermaLink=\"false\">tag:www.theprovince.com:content=17071049</guid></item></channel></rss>",
+  "headers": {
+    "Content-Type": "text/xml; charset=utf-8",
+    "X-AspNet-Version": "2.0.50727",
+    "P3P": "CP='NOI DSP COR NID CUR ADMo DEVi TAIi PSAi OTPo OUR SAMi UNRi OTRi BUS UNI COM NAV INT STA'",
+    "Cache-Control": "private",
+    "Server": "Microsoft-IIS/8.5",
+    "Date": "Sun, 18 Feb 2018 16:51:30 GMT",
+    "Vary": "Accept-Encoding",
+    "Content-Length": "705",
+    "Content-Encoding": "gzip",
+    "X-Powered-By": "ASP.NET"
+  },
+  "response_url": "http://rss.canada.com/get/?F7539"
+}

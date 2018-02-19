@@ -1,0 +1,7 @@
+{
+  "requested_url": " business http://online.wsj.com/xml/rss/3_7014.xml",
+  "fetched_at": "2018-02-18T22:20:10.767789",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' business http://online.wsj.com/xml/rss/3_7014.xml'",
+  "headers": null
+}

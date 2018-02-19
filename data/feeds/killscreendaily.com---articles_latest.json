@@ -1,0 +1,22 @@
+{
+  "requested_url": "http://killscreendaily.com/articles/latest/",
+  "fetched_at": "2018-02-18T22:20:36.086047",
+  "status_code": 200,
+  "response_text": "<!DOCTYPE html><body style=\"padding:0; margin:0;\"><html><body><iframe src=\"http://mcc.godaddy.com/park/rUM5rJMjMKWlLKShqayfYaOvrt==\" style=\"visibility: visible;height: 100%; position:absolute\" allowtransparency=\"true\" marginheight=\"0\" marginwidth=\"0\" frameborder=\"0\" width=\"100%\"></iframe></body></html><!-- T: 2128 -->",
+  "headers": {
+    "Server": "Microsoft-IIS/7.5",
+    "X-AspNet-Version": "4.0.30319",
+    "Vary": "Accept-Encoding",
+    "Pragma": "no-cache",
+    "Connection": "keep-alive",
+    "Expires": "-1",
+    "Content-Type": "text/html; charset=utf-8",
+    "Age": "491",
+    "Cache-Control": "no-cache",
+    "Date": "Sun, 18 Feb 2018 16:42:38 GMT",
+    "Content-Length": "358",
+    "Content-Encoding": "gzip",
+    "X-Powered-By": "ASP.NET"
+  },
+  "response_url": "http://killscreendaily.com/articles/latest/"
+}

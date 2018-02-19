@@ -1,0 +1,7 @@
+{
+  "requested_url": " sports http://www.outlookindia.com/rss/section/22",
+  "fetched_at": "2018-02-18T22:21:58.614855",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' sports http://www.outlookindia.com/rss/section/22'",
+  "headers": null
+}

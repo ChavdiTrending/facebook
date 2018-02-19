@@ -1,0 +1,21 @@
+{
+  "requested_url": "http://www.economist.com/sections/science-technology/rss.xml",
+  "fetched_at": "2018-02-18T22:24:38.101185",
+  "status_code": 403,
+  "response_text": "<!DOCTYPE html>\n<html>\n  <head>\n    <title>403 You are banned from this site.  Please contact via a different client configuration if you believe that this is a mistake.</title>\n  </head>\n  <body>\n    <h1>Error 403 You are banned from this site.  Please contact via a different client configuration if you believe that this is a mistake.</h1>\n    <p>You are banned from this site.  Please contact via a different client configuration if you believe that this is a mistake.</p>\n    <h3>Guru Meditation:</h3>\n    <p>XID: 530519685</p>\n    <hr>\n    <p>Varnish cache server</p>\n  </body>\n</html>\n",
+  "headers": {
+    "X-CDN": "Incapsula",
+    "Set-Cookie": "visid_incap_121505=L+Hq04h3REy0BT8hJ6v+Wc2viVoAAAAAQUIPAAAAAACjSu3ud6B1jWaX3hSQFjPN; expires=Mon, 18 Feb 2019 14:56:09 GMT; path=/; Domain=.economist.com, nlbi_121505=NCLLdBePpQ0zXWIgNCSsiwAAAABMk58sLLmHRtVaPqT0d5Sh; path=/; Domain=.economist.com, incap_ses_573_121505=w/cvPNwvwzMBZuYlFbXzB82viVoAAAAAZ82NYveH4g+woNi8IFtYsQ==; path=/; Domain=.economist.com, ___utmvmfouZKyc=YeZLRfzsfuH; path=/; Max-Age=900, ___utmvafouZKyc=TUT\u0001IMaN; path=/; Max-Age=900, ___utmvbfouZKyc=yZb\r\n    XBbOZalB: KtC; path=/; Max-Age=900",
+    "Server": "Varnish",
+    "X-Iinfo": "4-21105040-21105041 NNNN CT(2 -1 0) RT(1518972877515 0) q(0 0 0 -1) r(2 2) U5",
+    "Content-Type": "text/html; charset=utf-8",
+    "Via": "1.1 d5c74c300fd3b59e722dda0169b2a7f0.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Id": "Wi0farqznu6QmpSXpp6FwnxpvHNXrKdkEhvatg-VE5v-7DaN69iFeQ==",
+    "X-Cache": "Error from cloudfront",
+    "Connection": "keep-alive",
+    "Date": "Sun, 18 Feb 2018 16:54:38 GMT",
+    "Retry-After": "5",
+    "Content-Length": "592"
+  },
+  "response_url": "http://www.economist.com/sections/science-technology/rss.xml"
+}

@@ -1,0 +1,7 @@
+{
+  "requested_url": " entertainment http://www.hollywoodreporter.com/blogs/live-feed/rss",
+  "fetched_at": "2018-02-18T22:20:30.057428",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' entertainment http://www.hollywoodreporter.com/blogs/live-feed/rss'",
+  "headers": null
+}

@@ -1,0 +1,7 @@
+{
+  "requested_url": " business http://www.economist.com/feeds/print-sections/77/business.xml",
+  "fetched_at": "2018-02-18T22:20:10.775157",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' business http://www.economist.com/feeds/print-sections/77/business.xml'",
+  "headers": null
+}

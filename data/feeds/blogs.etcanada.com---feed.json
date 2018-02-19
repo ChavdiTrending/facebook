@@ -1,0 +1,19 @@
+{
+  "requested_url": "http://blogs.etcanada.com/feed/",
+  "fetched_at": "2018-02-18T22:21:39.186477",
+  "status_code": 403,
+  "response_text": "<!DOCTYPE HTML PUBLIC \"-//IETF//DTD HTML 2.0//EN\">\n<html><head>\n<title>403 Forbidden</title>\n</head><body>\n<h1>Forbidden</h1>\n<p>You don't have permission to access /feed/\non this server.</p>\n</body></html>\n",
+  "headers": {
+    "Content-Type": "text/html; charset=iso-8859-1",
+    "Set-Cookie": "AWSELB=95ABE31B022927D62C9D487D4A69D7CEA68D7426111E7F71B247D782386C14720FA0C8FE7E95B66622095DD433432CDF06D3C8740D96D318D2EACAC4CA13E05168E103BBA9;PATH=/;MAX-AGE=300",
+    "Connection": "keep-alive",
+    "Cache-Control": "no-cache",
+    "Server": "Apache",
+    "Date": "Sun, 18 Feb 2018 16:51:40 GMT",
+    "Vary": "Accept-Encoding",
+    "Content-Encoding": "gzip",
+    "X-Robots-Tag": "noindex, nofollow",
+    "Content-Length": "178"
+  },
+  "response_url": "http://blogs.etcanada.com/feed/"
+}

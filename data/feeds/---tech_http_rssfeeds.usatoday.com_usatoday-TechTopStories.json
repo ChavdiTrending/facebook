@@ -1,0 +1,7 @@
+{
+  "requested_url": " tech http://rssfeeds.usatoday.com/usatoday-TechTopStories",
+  "fetched_at": "2018-02-18T22:20:30.020288",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' tech http://rssfeeds.usatoday.com/usatoday-TechTopStories'",
+  "headers": null
+}

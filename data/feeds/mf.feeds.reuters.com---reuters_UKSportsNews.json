@@ -1,0 +1,7 @@
+{
+  "requested_url": "http://mf.feeds.reuters.com/reuters/UKSportsNews",
+  "fetched_at": "2018-02-18T22:29:15.981926",
+  "status_code": "ConnectionError",
+  "response_text": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response',))",
+  "headers": null
+}

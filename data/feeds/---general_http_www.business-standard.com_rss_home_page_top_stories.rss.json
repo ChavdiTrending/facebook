@@ -1,0 +1,7 @@
+{
+  "requested_url": " general http://www.business-standard.com/rss/home_page_top_stories.rss",
+  "fetched_at": "2018-02-18T22:21:58.418801",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' general http://www.business-standard.com/rss/home_page_top_stories.rss'",
+  "headers": null
+}

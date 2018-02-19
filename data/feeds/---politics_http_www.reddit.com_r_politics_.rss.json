@@ -1,0 +1,7 @@
+{
+  "requested_url": " politics http://www.reddit.com/r/politics/.rss",
+  "fetched_at": "2018-02-18T22:20:10.716130",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' politics http://www.reddit.com/r/politics/.rss'",
+  "headers": null
+}

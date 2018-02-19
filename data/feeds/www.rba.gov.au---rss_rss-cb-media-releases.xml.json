@@ -1,0 +1,23 @@
+{
+  "requested_url": "http://www.rba.gov.au/rss/rss-cb-media-releases.xml",
+  "fetched_at": "2018-02-18T22:34:05.853498",
+  "status_code": 200,
+  "response_text": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n\n<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:content=\"http://purl.org/rss/1.0/modules/content/\" xmlns:taxo=\"http://purl.org/rss/1.0/modules/taxonomy/\" xmlns:opensearch=\"http://a9.com/-/spec/opensearch/1.1/\" xmlns:sy=\"http://purl.org/rss/1.0/modules/syndication/\" xmlns:cb=\"http://www.cbwiki.net/wiki/index.php/Specification_1.2/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:dcterms=\"http://purl.org/dc/terms\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"http://purl.org/rss/1.0/\" xsi:schemaLocation=\"http://www.w3.org/1999/02/22-rdf-syntax-ns# rdf.xsd\">\n  <channel rdf:about=\"https://www.rba.gov.au/rss/rss-cb-media-releases.xml\">\n    <title>Reserve Bank of Australia | Media Releases</title>\n    <link>https://www.rba.gov.au/rss/index.html</link>\n    <description>Media Releases issued by the Reserve Bank of Australia.</description>\n    <items>\n      <rdf:Seq>\n        <rdf:li rdf:resource=\"https://www.rba.gov.au/media-releases/2018/mr-18-03.html\"/>\n      </rdf:Seq>\n    </items>\n    <dc:date>2018-02-15T09:00:00+11:00</dc:date>\n    <dc:publisher>Reserve Bank of Australia</dc:publisher>\n    <dc:language>en</dc:language>\n  </channel>\n  <item rdf:about=\"https://www.rba.gov.au/media-releases/2018/mr-18-03.html\">\n    <title>Next Generation of Banknotes: $50 Design Reveal</title>\n    <link>https://www.rba.gov.au/media-releases/2018/mr-18-03.html</link>\n    <description>The Reserve Bank has today revealed the design of the new $50 banknote.</description>\n    <dc:date>2018-02-15T09:00:00+11:00</dc:date>\n    <cb:news rdf:parseType=\"Resource\">\n      <rdf:type rdf:resource=\"http://www.cbwiki.net/wiki/index.php/RSS-CB_1.2_RDF_Schema#Media-Releases\"/>\n      <cb:simpleTitle>Next Generation of Banknotes: $50 Design Reveal</cb:simpleTitle>\n      <cb:occurrenceDate>2018-02-15T09:00:00+11:00</cb:occurrenceDate>\n      <cb:institutionAbbrev>RBA</cb:institutionAbbrev>\n    </cb:news>\n  </item>\n</rdf:RDF>\n",
+  "headers": {
+    "X-UA-Compatible": "IE=Edge",
+    "Server": "Apache",
+    "X-XSS-Protection": "1; mode=block",
+    "Last-Modified": "Wed, 14 Feb 2018 00:55:02 GMT",
+    "ResponseTime": "D=210",
+    "Expires": "Sun, 18 Feb 2018 17:04:36 GMT",
+    "Content-Type": "text/xml",
+    "Keep-Alive": "timeout=6, max=499",
+    "Connection": "Keep-Alive",
+    "Cache-Control": "max-age=30",
+    "Date": "Sun, 18 Feb 2018 17:04:06 GMT",
+    "Accept-Ranges": "bytes",
+    "Content-Length": "1992",
+    "X-Frame-Options": "SAMEORIGIN"
+  },
+  "response_url": "http://www.rba.gov.au/rss/rss-cb-media-releases.xml"
+}

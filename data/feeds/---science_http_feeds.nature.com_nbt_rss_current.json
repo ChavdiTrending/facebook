@@ -1,0 +1,7 @@
+{
+  "requested_url": " science http://feeds.nature.com/nbt/rss/current",
+  "fetched_at": "2018-02-18T22:20:29.906493",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' science http://feeds.nature.com/nbt/rss/current'",
+  "headers": null
+}

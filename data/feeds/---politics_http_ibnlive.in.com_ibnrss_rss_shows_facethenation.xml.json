@@ -1,0 +1,7 @@
+{
+  "requested_url": " politics http://ibnlive.in.com/ibnrss/rss/shows/facethenation.xml",
+  "fetched_at": "2018-02-18T22:21:58.456558",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' politics http://ibnlive.in.com/ibnrss/rss/shows/facethenation.xml'",
+  "headers": null
+}

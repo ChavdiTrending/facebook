@@ -1,0 +1,7 @@
+{
+  "requested_url": " science http://rss.sciam.com/ScientificAmerican-Global",
+  "fetched_at": "2018-02-18T22:20:29.883127",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' science http://rss.sciam.com/ScientificAmerican-Global'",
+  "headers": null
+}

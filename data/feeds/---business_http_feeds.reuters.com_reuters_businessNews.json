@@ -1,0 +1,7 @@
+{
+  "requested_url": " business http://feeds.reuters.com/reuters/businessNews",
+  "fetched_at": "2018-02-18T22:20:10.771482",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' business http://feeds.reuters.com/reuters/businessNews'",
+  "headers": null
+}

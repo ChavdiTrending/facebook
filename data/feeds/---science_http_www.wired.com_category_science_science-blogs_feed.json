@@ -1,0 +1,7 @@
+{
+  "requested_url": " science http://www.wired.com/category/science/science-blogs/feed/",
+  "fetched_at": "2018-02-18T22:20:29.929770",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' science http://www.wired.com/category/science/science-blogs/feed/'",
+  "headers": null
+}

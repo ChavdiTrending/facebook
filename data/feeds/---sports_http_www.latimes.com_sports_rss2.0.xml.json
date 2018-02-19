@@ -1,0 +1,7 @@
+{
+  "requested_url": " sports http://www.latimes.com/sports/rss2.0.xml",
+  "fetched_at": "2018-02-18T22:20:29.952030",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' sports http://www.latimes.com/sports/rss2.0.xml'",
+  "headers": null
+}

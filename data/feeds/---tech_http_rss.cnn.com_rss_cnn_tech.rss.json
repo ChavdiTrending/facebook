@@ -1,0 +1,7 @@
+{
+  "requested_url": " tech http://rss.cnn.com/rss/cnn_tech.rss",
+  "fetched_at": "2018-02-18T22:20:29.964466",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' tech http://rss.cnn.com/rss/cnn_tech.rss'",
+  "headers": null
+}

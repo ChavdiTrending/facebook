@@ -1,0 +1,7 @@
+{
+  "requested_url": " health http://lifestyle.in.msn.com/rss/health.aspx",
+  "fetched_at": "2018-02-18T22:21:58.586987",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' health http://lifestyle.in.msn.com/rss/health.aspx'",
+  "headers": null
+}

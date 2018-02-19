@@ -1,0 +1,7 @@
+{
+  "requested_url": " tech http://rss.feedsportal.com/c/270/f/3547/index.rss",
+  "fetched_at": "2018-02-18T22:20:30.019025",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' tech http://rss.feedsportal.com/c/270/f/3547/index.rss'",
+  "headers": null
+}

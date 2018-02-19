@@ -1,0 +1,7 @@
+{
+  "requested_url": " general http://economictimes.indiatimes.com/News/rssfeeds/1715249553.cms",
+  "fetched_at": "2018-02-18T22:21:58.412358",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' general http://economictimes.indiatimes.com/News/rssfeeds/1715249553.cms'",
+  "headers": null
+}

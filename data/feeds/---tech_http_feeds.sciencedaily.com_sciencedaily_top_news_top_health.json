@@ -1,0 +1,7 @@
+{
+  "requested_url": " tech http://feeds.sciencedaily.com/sciencedaily/top_news/top_health",
+  "fetched_at": "2018-02-18T22:20:30.047587",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' tech http://feeds.sciencedaily.com/sciencedaily/top_news/top_health'",
+  "headers": null
+}

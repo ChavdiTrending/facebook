@@ -1,0 +1,7 @@
+{
+  "requested_url": " business http://hosted.ap.org/lineups/WORLDHEADS.rss",
+  "fetched_at": "2018-02-18T22:21:58.562239",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' business http://hosted.ap.org/lineups/WORLDHEADS.rss'",
+  "headers": null
+}

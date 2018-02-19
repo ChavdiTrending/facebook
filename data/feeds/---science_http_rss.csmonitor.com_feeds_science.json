@@ -1,0 +1,7 @@
+{
+  "requested_url": " science http://rss.csmonitor.com/feeds/science",
+  "fetched_at": "2018-02-18T22:20:29.923437",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' science http://rss.csmonitor.com/feeds/science'",
+  "headers": null
+}

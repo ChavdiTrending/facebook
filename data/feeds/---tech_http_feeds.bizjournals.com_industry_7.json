@@ -1,0 +1,7 @@
+{
+  "requested_url": " tech http://feeds.bizjournals.com/industry_7",
+  "fetched_at": "2018-02-18T22:20:30.001006",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' tech http://feeds.bizjournals.com/industry_7'",
+  "headers": null
+}

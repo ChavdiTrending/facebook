@@ -1,0 +1,7 @@
+{
+  "requested_url": " politics http://ibnlive.in.com/ibnrss/rss/elections/madhyapradeshelections.xml",
+  "fetched_at": "2018-02-18T22:21:58.470525",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' politics http://ibnlive.in.com/ibnrss/rss/elections/madhyapradeshelections.xml'",
+  "headers": null
+}

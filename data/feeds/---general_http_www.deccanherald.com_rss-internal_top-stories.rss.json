@@ -1,0 +1,7 @@
+{
+  "requested_url": " general http://www.deccanherald.com/rss-internal/top-stories.rss",
+  "fetched_at": "2018-02-18T22:21:58.423482",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' general http://www.deccanherald.com/rss-internal/top-stories.rss'",
+  "headers": null
+}

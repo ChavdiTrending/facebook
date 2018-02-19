@@ -1,0 +1,13 @@
+{
+  "requested_url": "http://www.hilltimes.com/feed",
+  "fetched_at": "2018-02-18T22:21:00.016596",
+  "status_code": 447,
+  "response_text": "",
+  "headers": {
+    "Connection": "keep-alive",
+    "Content-Length": "0",
+    "Server": "nginx",
+    "Date": "Sun, 18 Feb 2018 16:51:00 GMT"
+  },
+  "response_url": "http://www.hilltimes.com/feed"
+}

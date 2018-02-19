@@ -1,0 +1,7 @@
+{
+  "requested_url": " politics https://in.news.yahoo.com/rss/politics",
+  "fetched_at": "2018-02-18T22:21:58.445471",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' politics https://in.news.yahoo.com/rss/politics'",
+  "headers": null
+}

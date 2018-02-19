@@ -1,0 +1,7 @@
+{
+  "requested_url": " tech http://www.dailytech.com/rss.aspx",
+  "fetched_at": "2018-02-18T22:20:30.029138",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' tech http://www.dailytech.com/rss.aspx'",
+  "headers": null
+}

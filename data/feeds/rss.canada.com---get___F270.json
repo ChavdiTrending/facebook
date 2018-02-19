@@ -1,0 +1,19 @@
+{
+  "requested_url": "http://rss.canada.com/get/?F270",
+  "fetched_at": "2018-02-18T22:20:53.448068",
+  "status_code": 200,
+  "response_text": "<error>Unknown feed format.  Supported formats are RSS 1.0/RDF, RSS 2.0 and ATOM 1.0.</error>",
+  "headers": {
+    "Content-Type": "text/xml; charset=utf-8",
+    "X-AspNet-Version": "2.0.50727",
+    "P3P": "CP='NOI DSP COR NID CUR ADMo DEVi TAIi PSAi OTPo OUR SAMi UNRi OTRi BUS UNI COM NAV INT STA'",
+    "Cache-Control": "private",
+    "Server": "Microsoft-IIS/8.5",
+    "Date": "Sun, 18 Feb 2018 16:50:51 GMT",
+    "Vary": "Accept-Encoding",
+    "Content-Length": "102",
+    "Content-Encoding": "gzip",
+    "X-Powered-By": "ASP.NET"
+  },
+  "response_url": "http://rss.canada.com/get/?F270"
+}

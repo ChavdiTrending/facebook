@@ -1,0 +1,7 @@
+{
+  "requested_url": " tech http://feeds.gawker.com/valleywag/full",
+  "fetched_at": "2018-02-18T22:20:29.997427",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' tech http://feeds.gawker.com/valleywag/full'",
+  "headers": null
+}

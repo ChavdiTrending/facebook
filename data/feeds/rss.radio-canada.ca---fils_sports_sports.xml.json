@@ -1,0 +1,24 @@
+{
+  "requested_url": "http://rss.radio-canada.ca/fils/sports/sports.xml",
+  "fetched_at": "2018-02-18T22:21:24.680811",
+  "status_code": 200,
+  "response_text": "\u00ef\u00bb\u00bf<?xml version=\"1.0\" encoding=\"utf-8\"?>\r\n<rss version=\"2.0\">\r\n  <channel>\r\n    <title>Radio-Canada | Sports</title>\r\n    <link>http://ici.radio-canada.ca/sports/?ref=rss</link>\r\n    <description><![CDATA[Mise \u00c3\u00a0 jour \u00c3\u00a0 toutes les 15 minutes tous les jours - POUR USAGE PERSONNEL SEULEMENT]]></description>\r\n    <language>fr-ca</language>\r\n    <lastBuildDate>Sun, 18 Feb 2018 11:45:00 EST</lastBuildDate>\r\n    <copyright>Copyright: (C) Radio-Canada, http://ici.radio-canada.ca/util/politiques/index.html#RSS</copyright>\r\n    <docs>http://ici.radio-canada.ca/rss/</docs>\r\n    <image>\r\n      <title>Radio-Canada | Sports</title>\r\n      <url>http://rss.radio-canada.ca/fils/images/src_144.gif</url>\r\n      <link>http://ici.radio-canada.ca/rss</link>\r\n    </image>\r\n    <item>\r\n      <title>Roger Federer, nouveau no 1 mondial, remporte son 97e titre</title>\r\n      <link>http://ici.radio-canada.ca/sports/1084530/roger-federer-nouveau-no-1-mondial-remporte-son-97e-titre</link>\r\n      <guid isPermaLink=\"true\">http://ici.radio-canada.ca/sports/1084530/roger-federer-nouveau-no-1-mondial-remporte-son-97e-titre</guid>\r\n      <pubDate>Sun, 18 Feb 2018 11:01:00 EST</pubDate>\r\n      <description><![CDATA[Le Suisse Roger Federer, nouveau no 1 mondial, a soulev\u00c3\u00a9 dimanche le 97e troph\u00c3\u00a9e de sa carri\u00c3\u00a8re en remportant le tournoi ATP 500 de Rotterdam aux d\u00c3\u00a9pens du Bulgare Grigor Dimitrov (5e), surclass\u00c3\u00a9 en deux manches 6-2, 6-2 et en moins d'une heure (53 min).]]></description>\r\n      <enclosure type=\"image/jpeg\" length=\"0\" url=\"http://images.radio-canada.ca/v1/ici-info/sports/16x9/roger-federer-rotterdam.jpg\" />\r\n    </item>\r\n    <item>\r\n      <title>De mal en pis pour le Canadien \u00c3\u00a0 l'\u00c3\u00a9tranger</title>\r\n      <link>http://ici.radio-canada.ca/sports/1084495/hockey-canadien-montreal-golden-knights-vegas-antti-niemi-carey-price-reilly-smith-lnh</link>\r\n      <guid isPermaLink=\"true\">http://ici.radio-canada.ca/sports/1084495/hockey-canadien-montreal-golden-knights-vegas-antti-niemi-carey-price-reilly-smith-lnh</guid>\r\n      <pubDate>Sat, 17 Feb 2018 21:49:00 EST</pubDate>\r\n      <description><![CDATA[La puissante attaque des Golden Knights de Vegas (39-15-4) n'a pas d\u00c3\u00a9rougi samedi contre le Canadien (22-29-7). Antti Niemi et Carey Price n'ont rien pu faire face aux locaux, vainqueurs par un pointage de 6-3.]]></description>\r\n      <enclosure type=\"image/jpeg\" length=\"0\" url=\"http://images.radio-canada.ca/v1/ici-info/sports/16x9/victor-mete-ryan-carpenter-tomas-nosek-luca-sbisa.jpg\" />\r\n    </item>\r\n  </channel>\r\n</rss>",
+  "headers": {
+    "Content-Type": "text/xml",
+    "Server": "Microsoft-IIS/7.5",
+    "X-ACE-FARM": "default",
+    "Last-Modified": "Sun, 18 Feb 2018 16:45:05 GMT",
+    "Content-Encoding": "gzip",
+    "Connection": "keep-alive",
+    "Expires": "Sun, 18 Feb 2018 16:59:25 GMT",
+    "Vary": "Accept-Encoding",
+    "ETag": "\"e5c24d4d7a8d31:0\"",
+    "Cache-Control": "max-age=480",
+    "Date": "Sun, 18 Feb 2018 16:51:25 GMT",
+    "Accept-Ranges": "bytes",
+    "Content-Length": "1051",
+    "X-Powered-By": "ASP.NET",
+    "TrueSight_WebServer_ID": "10.165.193.104"
+  },
+  "response_url": "http://rss.radio-canada.ca/fils/sports/sports.xml"
+}

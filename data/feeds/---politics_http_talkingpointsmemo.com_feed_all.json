@@ -1,0 +1,7 @@
+{
+  "requested_url": " politics http://talkingpointsmemo.com/feed/all",
+  "fetched_at": "2018-02-18T22:20:10.765364",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' politics http://talkingpointsmemo.com/feed/all'",
+  "headers": null
+}

@@ -1,0 +1,7 @@
+{
+  "requested_url": " tech http://feeds.nature.com/news/rss/news_s16",
+  "fetched_at": "2018-02-18T22:20:30.043669",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' tech http://feeds.nature.com/news/rss/news_s16'",
+  "headers": null
+}

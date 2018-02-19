@@ -1,0 +1,7 @@
+{
+  "requested_url": " general http://indiatoday.feedsportal.com/c/33614/f/589699/index.rss",
+  "fetched_at": "2018-02-18T22:21:58.415643",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' general http://indiatoday.feedsportal.com/c/33614/f/589699/index.rss'",
+  "headers": null
+}

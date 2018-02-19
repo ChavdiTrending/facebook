@@ -1,0 +1,7 @@
+{
+  "requested_url": " sports https://sports.yahoo.com/top/rss.xml",
+  "fetched_at": "2018-02-18T22:20:29.957113",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' sports https://sports.yahoo.com/top/rss.xml'",
+  "headers": null
+}

@@ -1,0 +1,7 @@
+{
+  "requested_url": " science http://news.nationalgeographic.com/rss/index.rss",
+  "fetched_at": "2018-02-18T22:20:29.928486",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' science http://news.nationalgeographic.com/rss/index.rss'",
+  "headers": null
+}

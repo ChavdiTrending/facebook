@@ -1,0 +1,7 @@
+{
+  "requested_url": " entertainment http://rss.ew.com/web/ew/rss/todayslatest/index.xml",
+  "fetched_at": "2018-02-18T22:20:30.061334",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' entertainment http://rss.ew.com/web/ew/rss/todayslatest/index.xml'",
+  "headers": null
+}

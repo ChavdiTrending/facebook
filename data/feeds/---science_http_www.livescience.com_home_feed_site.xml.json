@@ -1,0 +1,7 @@
+{
+  "requested_url": " science http://www.livescience.com/home/feed/site.xml",
+  "fetched_at": "2018-02-18T22:20:29.902182",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' science http://www.livescience.com/home/feed/site.xml'",
+  "headers": null
+}

@@ -1,0 +1,7 @@
+{
+  "requested_url": " tech http://www.huffingtonpost.com/feeds/verticals/technology/news.xml",
+  "fetched_at": "2018-02-18T22:20:29.963232",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' tech http://www.huffingtonpost.com/feeds/verticals/technology/news.xml'",
+  "headers": null
+}

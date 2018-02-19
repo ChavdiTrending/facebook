@@ -1,0 +1,7 @@
+{
+  "requested_url": " business http://feeds.washingtonpost.com/rss/rss_wonkblog",
+  "fetched_at": "2018-02-18T22:20:10.773929",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' business http://feeds.washingtonpost.com/rss/rss_wonkblog'",
+  "headers": null
+}

@@ -1,0 +1,7 @@
+{
+  "requested_url": " science http://feeds.feedburner.com/BreakingScienceNews?format=xml",
+  "fetched_at": "2018-02-18T22:20:29.884329",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' science http://feeds.feedburner.com/BreakingScienceNews?format=xml'",
+  "headers": null
+}

@@ -1,0 +1,7 @@
+{
+  "requested_url": " science http://feeds.reuters.com/reuters/scienceNews",
+  "fetched_at": "2018-02-18T22:20:29.931095",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' science http://feeds.reuters.com/reuters/scienceNews'",
+  "headers": null
+}

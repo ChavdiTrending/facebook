@@ -1,0 +1,7 @@
+{
+  "requested_url": " sports http://live-feeds.cricbuzz.com/CricbuzzFeed",
+  "fetched_at": "2018-02-18T22:21:58.613373",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' sports http://live-feeds.cricbuzz.com/CricbuzzFeed'",
+  "headers": null
+}

@@ -1,0 +1,28 @@
+{
+  "requested_url": "https://uk.finance.yahoo.com/news/provider-yahoofinance/?format=rss",
+  "fetched_at": "2018-02-18T22:22:47.431266",
+  "status_code": 404,
+  "response_text": "<html>\n<meta charset='utf-8'>\n<script>\nvar u='https://uk.yahoo.com/?err=404&err_url=https%3a%2f%2fuk.finance.yahoo.com%2fnews%2fprovider-yahoofinance%2f%3fformat%3drss';\nif(window!=window.top){\n  document.write('<p>Content is currently unavailable.</p><img src=\"//geo.yahoo.com/p?s=1197757039&t='+new Date().getTime()+'&_R='+encodeURIComponent(document.referrer)+'&err=404&err_url='+u+'\" width=\"0px\" height=\"0px\"/>');\n}else{\n  window.location.replace(u);\n}\n</script>\n<noscript><META http-equiv=\"refresh\" content=\"0;URL='https://uk.yahoo.com/?err=404&err_url=https%3a%2f%2fuk.finance.yahoo.com%2fnews%2fprovider-yahoofinance%2f%3fformat%3drss'\"></noscript>\n</html>\n",
+  "headers": {
+    "Content-Type": "text/html; charset=utf-8",
+    "Server": "ATS",
+    "X-XSS-Protection": "1; mode=block",
+    "set-cookie": "B=46urtkld8jbqv&b=3&s=ba; expires=Sun, 18-Feb-2019 16:52:47 GMT; path=/; domain=.yahoo.com",
+    "Via": "http/1.1 media-router-omega23.prod.media.gq1.yahoo.com (ApacheTrafficServer [cMsSf ]), http/1.1 media-router35.prod.media.sg3.yahoo.com (ApacheTrafficServer [cMsSf ]), https/1.1 r06.ycpi.inc.yahoo.net (ApacheTrafficServer [cMsSf ])",
+    "Connection": "keep-alive",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=15552000",
+    "Expires": "-1",
+    "X-Bypass-Ssl-Transform": "1",
+    "Age": "3",
+    "Cache-Control": "max-age=0, private",
+    "Date": "Sun, 18 Feb 2018 16:52:47 GMT",
+    "Expect-CT": "max-age=3600, report-uri=\"http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only\"",
+    "ETag": "W/\"66-X6UQdteIOoD6xION7fOMdRC/XGc\"",
+    "Content-Length": "664",
+    "Public-Key-Pins-Report-Only": "max-age=3600; pin-sha256=\"2fRAUXyxl4A1/XHrKNBmc8bTkzA7y4FB/GLJuNAzCqY=\"; pin-sha256=\"2oALgLKofTmeZvoZ1y/fSZg7R9jPMix8eVA6DH4o/q8=\"; pin-sha256=\"Gtk3r1evlBrs0hG3fm3VoM19daHexDWP//OCmeeMr5M=\"; pin-sha256=\"I/Lt/z7ekCWanjD0Cvj5EqXls2lOaThEA0H2Bg4BT/o=\"; pin-sha256=\"JbQbUG5JMJUoI6brnx0x3vZF6jilxsapbXGVfjhN8Fg=\"; pin-sha256=\"SVqWumuteCQHvVIaALrOZXuzVVVeS7f4FGxxu6V+es4=\"; pin-sha256=\"UZJDjsNp1+4M5x9cbbdflB779y5YRBcV6Z6rBMLIrO4=\"; pin-sha256=\"Wd8xe/qfTwq3ylFNd3IpaqLHZbh2ZNCLluVzmeNkcpw=\"; pin-sha256=\"WoiWRyIOVNa9ihaBciRSC7XHjliYS9VwUGOIud4PB18=\"; pin-sha256=\"cAajgxHlj7GTSEIzIYIQxmEloOSoJq7VOaxWHfv72QM=\"; pin-sha256=\"dolnbtzEBnELx/9lOEQ22e6OZO/QNb6VSSX2XHA3E7A=\"; pin-sha256=\"i7WTqTvh0OioIruIfFR4kMPnBqrS2rdiVPl/s2uC/CY=\"; pin-sha256=\"iduNzFNKpwYZ3se/XV+hXcbUonlLw09QPa6AYUwpu4M=\"; pin-sha256=\"lnsM2T/O9/J84sJFdnrpsFp3awZJ+ZZbYpCWhGloaHI=\"; pin-sha256=\"r/mIkG3eEpVdm+u/ko/cwxzOMo1bk4TyHIlByibiA5E=\"; pin-sha256=\"uUwZgwDOxcBXrQcntwu+kYFpkiVkOaezL0WYEZ3anJc=\"; includeSubdomains; report-uri=\"http://csp.yahoo.com/beacon/csp?src=yahoocom-hpkp-report-only\"",
+    "X-Frame-Options": "SAMEORIGIN",
+    "Vary": "X-Ssl"
+  },
+  "response_url": "https://uk.finance.yahoo.com/news/provider-yahoofinance/?format=rss"
+}

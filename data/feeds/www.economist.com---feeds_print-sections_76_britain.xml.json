@@ -1,0 +1,21 @@
+{
+  "requested_url": "http://www.economist.com/feeds/print-sections/76/britain.xml",
+  "fetched_at": "2018-02-18T22:22:38.517669",
+  "status_code": 403,
+  "response_text": "<!DOCTYPE html>\n<html>\n  <head>\n    <title>403 You are banned from this site.  Please contact via a different client configuration if you believe that this is a mistake.</title>\n  </head>\n  <body>\n    <h1>Error 403 You are banned from this site.  Please contact via a different client configuration if you believe that this is a mistake.</h1>\n    <p>You are banned from this site.  Please contact via a different client configuration if you believe that this is a mistake.</p>\n    <h3>Guru Meditation:</h3>\n    <p>XID: 533691005</p>\n    <hr>\n    <p>Varnish cache server</p>\n  <script type=\"text/javascript\">\n//<![CDATA[\n(function() {\nvar _analytics_scr = document.createElement('script');\n_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1012153748';\nvar _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_elem.parentNode.insertBefore(_analytics_scr, _analytics_elem);\n})();\n// ]]>\n</script></body>\n</html>\n",
+  "headers": {
+    "Transfer-Encoding": "chunked",
+    "Set-Cookie": "visid_incap_121505=snd5XI1lS2iGEuvkdOkCZlaviVoAAAAAQUIPAAAAAABXxz47TD0eVcZpfwEqRrK0; expires=Mon, 18 Feb 2019 15:06:08 GMT; path=/; Domain=.economist.com, nlbi_121505=EqwOX17W2SLpARr7NCSsiwAAAADHDGb0+NJNr2hVf0IcBl1B; path=/; Domain=.economist.com, incap_ses_706_121505=r0zzLmyLt3XSAo/tjDfMCVaviVoAAAAAsMmUXPP6EoNBxxndhlrDng==; path=/; Domain=.economist.com, ___utmvmcyuZKyc=NweiFubFYHR; path=/; Max-Age=900, ___utmvacyuZKyc=IBr\u0001OdqS; path=/; Max-Age=900, ___utmvbcyuZKyc=MZd\r\n    XDaOoalt: Hty; path=/; Max-Age=900",
+    "Server": "Varnish",
+    "X-Iinfo": "8-1224606-1224607 NNNN CT(44 -1 0) RT(1518972758494 0) q(0 0 1 -1) r(3 3) U5",
+    "Content-Type": "text/html; charset=utf-8",
+    "Via": "1.1 5d94ee88e3f566c3afc65b3e4a16b10b.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Id": "HxJW3NJCaH06IUfGZsphq5pzqSirraOAmP2j2fvA_R9fPvDK41s4cA==",
+    "X-Cache": "Error from cloudfront",
+    "Connection": "keep-alive",
+    "Date": "Sun, 18 Feb 2018 16:52:38 GMT",
+    "X-CDN": "Incapsula",
+    "Retry-After": "5"
+  },
+  "response_url": "http://www.economist.com/feeds/print-sections/76/britain.xml"
+}

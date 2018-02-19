@@ -1,0 +1,7 @@
+{
+  "requested_url": " health http://timesofindia.indiatimes.com/rssfeeds/2886714.cms",
+  "fetched_at": "2018-02-18T22:21:58.581381",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' health http://timesofindia.indiatimes.com/rssfeeds/2886714.cms'",
+  "headers": null
+}

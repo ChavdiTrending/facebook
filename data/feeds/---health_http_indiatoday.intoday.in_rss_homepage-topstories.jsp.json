@@ -1,0 +1,7 @@
+{
+  "requested_url": " health http://indiatoday.intoday.in/rss/homepage-topstories.jsp",
+  "fetched_at": "2018-02-18T22:21:58.583747",
+  "status_code": "InvalidSchema",
+  "response_text": "No connection adapters were found for ' health http://indiatoday.intoday.in/rss/homepage-topstories.jsp'",
+  "headers": null
+}
