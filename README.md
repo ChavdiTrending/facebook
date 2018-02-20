@@ -6,6 +6,7 @@ To run this script do the following steps:
 
 Dependency-
 pip install -e git+https://github.com/alex-sherman/deco.git#egg=deco
+
 pip install -e git+https://github.com/mobolic/facebook-sdk.git#egg=facebook-sdk
 
 1.To re-fetch Facebook's PDF and re-parse it into data/rss-urls.csv:
