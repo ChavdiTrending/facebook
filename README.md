@@ -4,6 +4,10 @@ This repository contain all the server side scripting for fetching all the trend
 Currently the trending section of facebook is built up by rss feeds from over 1000 news websites, running the deserializeJson.json file will make a json file which will have title and links of all the trending news.
 To run this script do the following steps:
 
+Dependency-
+pip install -e git+https://github.com/alex-sherman/deco.git#egg=deco
+pip install -e git+https://github.com/mobolic/facebook-sdk.git#egg=facebook-sdk
+
 1.To re-fetch Facebook's PDF and re-parse it into data/rss-urls.csv:
 
 **python scripts/fetch_pdf.py** 
